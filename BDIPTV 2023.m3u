@@ -99,5 +99,7 @@ http://12.1.1.1:8082/Ten1/tracks-v1a1/mono.m3u8?token=7a32362b93ce49cca35cc05e2d
 http://12.1.1.1:8082/Ten2/tracks-v1a1/mono.m3u8?token=702b6be615a4215cb96cac0cc2384f4663f70b68-2ef81c3c8dc7ecd6b766b539dc708536-1689683246-1689672446
 #EXTINF:-1 , Ten Sports-3
 http://12.1.1.1:8082/Ten3/tracks-v1a1/mono.m3u8?token=3e13d640d3e99fd65cdb71ba7ccd9e4d000887e8-5c3727410225adb4dd50e72d5e0856d5-1689683278-1689672478
+#EXTINF:-1 , Star Sports-1
+http://12.1.1.1:8082/Star-Sports-1/tracks-v1a1/mono.m3u8?token=135d770a3c92677c5b5e2fe0ca390a3f0bafe8af-f1f687edb97ec086ea6b4ad65eacd51b-1689684000-1689673200
 #EXTINF:-1 , & Pictures
 http://12.1.1.1:8082/And-Pictures/tracks-v1a1/mono.m3u8?token=1c2122b6a54b07a58e85b69379fc38394019c844-30ed59f41db6a135b2426788e8fc42f6-1689683876-1689673076
