@@ -63,3 +63,5 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , T sports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 , GTV
+http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=e7bde603bcc5f60952280d4e59775de67c1192fc-71e12c130ba171a74b79edf2a01f34c8-1689680217-1689669417
