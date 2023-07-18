@@ -61,3 +61,5 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-1 ,TBN 24 USA
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , T sports
+https://live.tsports.com/live/tsports_live_720/index.m3u8
