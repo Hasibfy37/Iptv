@@ -82,7 +82,7 @@ http://12.1.1.1:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=970a4357ce056e58d67
 #EXTINF:-1, Jalsha Movies
 http://12.1.1.1:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=1344e0ef06cd458d249f1285fc9fd5afcf7c2222-ea092cbdcfd6d86565fc9b602f2344a1-1689683448-1689672648
 #EXTINF:-1 , Somoy Tv
-http://12.1.1.1:8082/Somoy-TV/tracks-v1a1/mono.m3u8?token=ca6ce5983535090ec7fa74cfeadfca8338e70ef5-fa9cacaee9de63bedf070dc25877d626-1689680743-1689669943
+https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 , Channel I
 http://12.1.1.1:8082/Channel-i/tracks-v1a1/mono.m3u8?token=16d2a62ca7704aeecfe1868f15bea09c315ece3d-f431a45ea7994255d27e572623c4494b-1689680804-1689670004
 #EXTINF:-1 , Animal Planet 
