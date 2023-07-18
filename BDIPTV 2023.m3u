@@ -2,11 +2,7 @@
 #EXTINF:-1,BTV HD
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 ,Wild EARTH
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 ,USA
-http://208.86.19.13:81/11.stream/index.m3u8
-#EXTINF:-1 ,Channel S (UK)
-https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
+https://wildearth-roku.amagi.tv/masterR720P.m3u
 #EXTINF:-1 ,Khushboo Bangla(BD2)
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 ,Ekushey TV(BD2)
@@ -67,8 +63,12 @@ http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=e7bde603bcc5f60952280d4
 http://12.1.1.1:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=bf0e5002eea45765df5bc56db75a2e0672c2f5e0-c18c1d0398cf19241979df32394fc904-1689680453-1689669653
 #EXTINF:-1 , Zee Bangla HD
 http://12.1.1.1:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=12a7acf7621f25c6e49446bea144b541c7d0d7a8-43608a0ddc1e18c27698a4b04a0e1cd7-1689680574-1689669774
+#EXTINF:-1 , Zee Bangla Cinema
+http://12.1.1.1:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=f980a7a4903a7b5da1052f05cb2ed2615478a221-5c1a9f0c0af60053d57fd4f88667ff07-1689683324-1689672524
 #EXTINF:-1 , Star Jalsha HD
 http://12.1.1.1:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=970a4357ce056e58d676a61a73bd147fbd6d41a2-d50df59f96c3a1a894826f2e1b9258a5-1689680660-1689669860
+#EXTINF:-1, Jalsha Movies
+http://12.1.1.1:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=1344e0ef06cd458d249f1285fc9fd5afcf7c2222-ea092cbdcfd6d86565fc9b602f2344a1-1689683448-1689672648
 #EXTINF:-1 , Somoy Tv
 http://12.1.1.1:8082/Somoy-TV/tracks-v1a1/mono.m3u8?token=ca6ce5983535090ec7fa74cfeadfca8338e70ef5-fa9cacaee9de63bedf070dc25877d626-1689680743-1689669943
 #EXTINF:-1 , Channel I
