@@ -69,3 +69,9 @@ http://12.1.1.1:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=bf0e5002eea45765df5bc5
 http://12.1.1.1:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=12a7acf7621f25c6e49446bea144b541c7d0d7a8-43608a0ddc1e18c27698a4b04a0e1cd7-1689680574-1689669774
 #EXTINF:-1 , Star Jalsha HD
 http://12.1.1.1:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=970a4357ce056e58d676a61a73bd147fbd6d41a2-d50df59f96c3a1a894826f2e1b9258a5-1689680660-1689669860
+#EXTINF:-1 , Somoy Tv
+http://12.1.1.1:8082/Somoy-TV/tracks-v1a1/mono.m3u8?token=ca6ce5983535090ec7fa74cfeadfca8338e70ef5-fa9cacaee9de63bedf070dc25877d626-1689680743-1689669943
+#EXTINF:-1 , Channel I
+http://12.1.1.1:8082/Channel-i/tracks-v1a1/mono.m3u8?token=16d2a62ca7704aeecfe1868f15bea09c315ece3d-f431a45ea7994255d27e572623c4494b-1689680804-1689670004
+#EXTINF:-1 , Animal Planet 
+http://12.1.1.1:8082/Discovery-Tv/tracks-v1a1/mono.m3u8?token=c9d1ecbf2ff1dfbf6f40eef9528c297498a54b45-84ffe183b71005793d243f3105d9c3af-1689680865-1689670065
