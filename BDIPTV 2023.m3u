@@ -53,8 +53,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/playlist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/playlist.m3u8
 #EXTINF:-1 ,ATN Bangla(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 ,Star Jalsha
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 ,Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 ,Channel 24
@@ -67,3 +65,7 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=e7bde603bcc5f60952280d4e59775de67c1192fc-71e12c130ba171a74b79edf2a01f34c8-1689680217-1689669417
 #EXTINF:-1 , Sony AATH
 http://12.1.1.1:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=bf0e5002eea45765df5bc56db75a2e0672c2f5e0-c18c1d0398cf19241979df32394fc904-1689680453-1689669653
+#EXTINF:-1 , Zee Bangla HD
+http://12.1.1.1:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=12a7acf7621f25c6e49446bea144b541c7d0d7a8-43608a0ddc1e18c27698a4b04a0e1cd7-1689680574-1689669774
+#EXTINF:-1 , Star Jalsha HD
+http://12.1.1.1:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=970a4357ce056e58d676a61a73bd147fbd6d41a2-d50df59f96c3a1a894826f2e1b9258a5-1689680660-1689669860
