@@ -103,3 +103,5 @@ http://12.1.1.1:8082/Ten3/tracks-v1a1/mono.m3u8?token=3e13d640d3e99fd65cdb71ba7c
 http://12.1.1.1:8082/Star-Sports-1/tracks-v1a1/mono.m3u8?token=135d770a3c92677c5b5e2fe0ca390a3f0bafe8af-f1f687edb97ec086ea6b4ad65eacd51b-1689684000-1689673200
 #EXTINF:-1 , & Pictures
 http://12.1.1.1:8082/And-Pictures/tracks-v1a1/mono.m3u8?token=1c2122b6a54b07a58e85b69379fc38394019c844-30ed59f41db6a135b2426788e8fc42f6-1689683876-1689673076
+#EXTINF:-1 , Cartoon Network
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/cartoon_network_hd_320/cartoon_network_hd_320.m3u8?bitrate=768000&channel=cartoon_network_hd_320&gp_id=
