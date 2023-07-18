@@ -75,3 +75,15 @@ http://12.1.1.1:8082/Somoy-TV/tracks-v1a1/mono.m3u8?token=ca6ce5983535090ec7fa74
 http://12.1.1.1:8082/Channel-i/tracks-v1a1/mono.m3u8?token=16d2a62ca7704aeecfe1868f15bea09c315ece3d-f431a45ea7994255d27e572623c4494b-1689680804-1689670004
 #EXTINF:-1 , Animal Planet 
 http://12.1.1.1:8082/Discovery-Tv/tracks-v1a1/mono.m3u8?token=c9d1ecbf2ff1dfbf6f40eef9528c297498a54b45-84ffe183b71005793d243f3105d9c3af-1689680865-1689670065
+#EXTINF:-1 , National Geographic
+http://12.1.1.1:8082/Nat-Geo/tracks-v1a1/mono.m3u8?token=8f817c05dbb849f14d561d0200545ea130c684b4-adf7c5a5156fdc1d9838eb797459e99f-1689682903-1689672103
+#EXTINF:-1 , BBC World News
+http://12.1.1.1:8082/BBC_World/tracks-v1a1/mono.m3u8?token=55c599792075e946f4b9fc9fe46b0086d62bfe91-02ffe184f8f255cbd850c4823ca8e707-1689683103-1689672303
+#EXTINF:-1 , Nick
+http://12.1.1.1:8082/nike/tracks-v1a1/mono.m3u8?token=e481cc8ba125e72c382fa44faf8214b5845bc618-54140ebbf31ec387d02b4b05b4b8ad21-1689683157-1689672357
+#EXTINF:-1 , Ten Sports-1
+http://12.1.1.1:8082/Ten1/tracks-v1a1/mono.m3u8?token=7a32362b93ce49cca35cc05e2d5cae89d09eb0b0-b2705ed9a6f20906cf1c01a2ef1c29e5-1689683199-1689672399
+#EXTINF:-1 , Ten Sports-2 
+http://12.1.1.1:8082/Ten2/tracks-v1a1/mono.m3u8?token=702b6be615a4215cb96cac0cc2384f4663f70b68-2ef81c3c8dc7ecd6b766b539dc708536-1689683246-1689672446
+#EXTINF:-1 , Ten Sports-3
+http://12.1.1.1:8082/Ten3/tracks-v1a1/mono.m3u8?token=3e13d640d3e99fd65cdb71ba7ccd9e4d000887e8-5c3727410225adb4dd50e72d5e0856d5-1689683278-1689672478
