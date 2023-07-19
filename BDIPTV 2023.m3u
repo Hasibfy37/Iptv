@@ -69,39 +69,4 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , T sports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
-#EXTINF:-1 , GTV
-http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=e7bde603bcc5f60952280d4e59775de67c1192fc-71e12c130ba171a74b79edf2a01f34c8-1689680217-1689669417
-#EXTINF:-1 , Sony AATH
-http://12.1.1.1:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=345a48bf3d0a964bcdf5375d314c07cf98793721-89a35c6741aa86e0187f126250777152-1689704052-1689693252
-#EXTINF:-1 , Zee Bangla HD
-http://12.1.1.1:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=49cf1b290c00e8605fc37e38ef48408b3e07fe0a-9e367a0c4f944299fc212b006f87ab04-1689704261-1689693461
-#EXTINF:-1 , Zee Bangla Cinema
-http://12.1.1.1:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=d164d768e84ebec6295fa118624e7aec97865873-41642951d9119f5462c423ce7d1b487c-1689703989-1689693189
-#EXTINF:-1 , Star Jalsha HD
-http://12.1.1.1:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=3ae3ac43951e8e3f4d71437d2a3a326194ffa651-74f9c2d4007aafd154dbba2748e09015-1689704183-1689693383
-#EXTINF:-1, Jalsha Movies
-http://12.1.1.1:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=1344e0ef06cd458d249f1285fc9fd5afcf7c2222-ea092cbdcfd6d86565fc9b602f2344a1-1689683448-1689672648
-#EXTINF:-1 , Somoy Tv
-https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 , Channel I
-http://12.1.1.1:8082/Channel-i/tracks-v1a1/mono.m3u8?token=16d2a62ca7704aeecfe1868f15bea09c315ece3d-f431a45ea7994255d27e572623c4494b-1689680804-1689670004
-#EXTINF:-1 , Animal Planet 
-http://12.1.1.1:8082/Discovery-Tv/tracks-v1a1/mono.m3u8?token=c9d1ecbf2ff1dfbf6f40eef9528c297498a54b45-84ffe183b71005793d243f3105d9c3af-1689680865-1689670065
-#EXTINF:-1 , National Geographic
-http://12.1.1.1:8082/Nat-Geo/tracks-v1a1/mono.m3u8?token=8f817c05dbb849f14d561d0200545ea130c684b4-adf7c5a5156fdc1d9838eb797459e99f-1689682903-1689672103
-#EXTINF:-1 , BBC World News
-http://12.1.1.1:8082/BBC_World/tracks-v1a1/mono.m3u8?token=55c599792075e946f4b9fc9fe46b0086d62bfe91-02ffe184f8f255cbd850c4823ca8e707-1689683103-1689672303
-#EXTINF:-1 , Nick
-http://12.1.1.1:8082/nike/tracks-v1a1/mono.m3u8?token=e481cc8ba125e72c382fa44faf8214b5845bc618-54140ebbf31ec387d02b4b05b4b8ad21-1689683157-1689672357
-#EXTINF:-1 , Ten Sports-1
-http://12.1.1.1:8082/Ten1/tracks-v1a1/mono.m3u8?token=7a32362b93ce49cca35cc05e2d5cae89d09eb0b0-b2705ed9a6f20906cf1c01a2ef1c29e5-1689683199-1689672399
-#EXTINF:-1 , Ten Sports-2 
-http://12.1.1.1:8082/Ten2/tracks-v1a1/mono.m3u8?token=702b6be615a4215cb96cac0cc2384f4663f70b68-2ef81c3c8dc7ecd6b766b539dc708536-1689683246-1689672446
-#EXTINF:-1 , Ten Sports-3
-http://12.1.1.1:8082/Ten3/tracks-v1a1/mono.m3u8?token=3e13d640d3e99fd65cdb71ba7ccd9e4d000887e8-5c3727410225adb4dd50e72d5e0856d5-1689683278-1689672478
-#EXTINF:-1 , Star Sports-1
-http://12.1.1.1:8082/Star-Sports-1/tracks-v1a1/mono.m3u8?token=135d770a3c92677c5b5e2fe0ca390a3f0bafe8af-f1f687edb97ec086ea6b4ad65eacd51b-1689684000-1689673200
-#EXTINF:-1 , & Pictures
-http://12.1.1.1:8082/And-Pictures/tracks-v1a1/mono.m3u8?token=1c2122b6a54b07a58e85b69379fc38394019c844-30ed59f41db6a135b2426788e8fc42f6-1689683876-1689673076
-#EXTINF:-1 , Cartoon Network
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/cartoon_network_hd_320/cartoon_network_hd_320.m3u8?bitrate=768000&channel=cartoon_network_hd_320&gp_id=
+
