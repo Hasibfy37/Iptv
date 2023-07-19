@@ -3,12 +3,17 @@
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 ,Khushboo Bangla(BD2)
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+#EXTINF:-1 ,Anondo TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 ,Ekushey TV(BD2)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,RTV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 , Somoy TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 ,MY TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
+
 #EXTINF:-1 ,Asian TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 ,Bangla TV(Jagobd)
@@ -53,4 +58,25 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , T sports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 , NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 , Al Quran Radio
+http://66.45.232.131:9994/;stream.mp3
+#EXTINF:-1 , Radio Amar(88.4)
+http://118.179.215.45:8000/;stream/1
+#EXTINF:-1 ,Bangladesh Betar (88.8)
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+#EXTINF:-1 ,Radio Today (89.6)
+http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+#EXTINF:-1 ,Big FM (92.7)
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+#EXTINF:-1 ,Jago FM (94.4)
+http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+#EXTINF:-1 ,Radio Mirchi (98.3)
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
 
