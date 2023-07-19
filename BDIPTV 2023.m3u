@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,BTV HD
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1 ,Wild EARTH
-https://wildearth-roku.amagi.tv/masterR720P.m3u
 #EXTINF:-1 ,Khushboo Bangla(BD2)
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 ,Ekushey TV(BD2)
@@ -15,24 +13,12 @@ http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 ,Bangla TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1, Nagorik TV
-http://12.1.1.1:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=ab251009b0093c67bf07f0c304c2aef108d397bb-a7b9beb81f4697fd125e558e94b5669d-1689683834-1689673034
 #EXTINF:-1 ,Banglavision(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 ,Boishakhi Plus(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 ,Jamuna TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 , Ekattor TV
-http://12.1.1.1:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=9433052eed1530c67ad26a596f4748e478a9260b-16a68e4bf7d6c0a5062061b5a12e2869-1689683518-1689672718
-#EXTINF:-1 , Independent TV
-http://12.1.1.1:8082/Independent-Tv/tracks-v1a1/mono.m3u8?token=fa24c1d61545fc3aa64b1bba6bfd23d024dbb606-ae48b438fb4546ec8455bf2292341f1d-1689683559-1689672759
-#EXTINF:-1 , SATV
-http://12.1.1.1:8082/SATV/tracks-v1a1/mono.m3u8?token=325a15b80632510c4886b4a80ac225ef70f26b14-5f6cfa84d5561794ee947363ac7caa97-1689683706-1689672906
-#EXTINF:-1, Gaan Bangla
-http://12.1.1.1:8082/GaanBangla/tracks-v1a1/mono.m3u8?token=8721ba5bcc5e0360c1f9e1181c892b4ff088373f-d8a648ac6eefaa5cda8e56b30113d04c-1689683766-1689672966
-#EXTINF:-1 , Mohona TV
-http://12.1.1.1:8082/MohonaTV/tracks-v1a1/mono.m3u8?token=3656d540d1c5ca28b9808ccd921144d251f23ea8-2ee532f14534ee23552331fb7631f651-1689683795-1689672995
 #EXTINF:-1 ,Channel 24(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 ,News 24(Jagobd)
@@ -51,8 +37,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:-1 ,Bangla Talkies
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
-#EXTINF:-1 ,Colors Bangla HD
-http://12.1.1.1:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=5ae068320320c71e61fbfc36c6d2dbcadb5b516c-cd8dc5197688642049ab8f5a32ff8d2d-1689703903-1689693103
 #EXTINF:-1 ,Matri Bhumi HD
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
 #EXTINF:-1 ,ATN News
