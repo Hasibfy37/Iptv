@@ -73,3 +73,9 @@ http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
 #EXTINF:-1 ,Radio Mirchi (98.3)
 http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1 ,Discovery Science
+http://new-pro.tv:8080/99622282/etbVXafU6f/288952
+#EXTINF:-1 ,Discovery Channel 
+http://mybox.plus:80/hisham/123456/199663
+#EXTINF:-1 ,Nat Geo Wild
+http://mybox.plus:80/hisham/123456/199696
