@@ -61,20 +61,6 @@ https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 , NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 , Al Quran Radio
-http://66.45.232.131:9994/;stream.mp3
-#EXTINF:-1 , Radio Amar(88.4)
-http://118.179.215.45:8000/;stream/1
-#EXTINF:-1 ,Bangladesh Betar (88.8)
-http://as3.digitalsynapsebd.com:8263/;stream.mp3
-#EXTINF:-1 ,Radio Today (89.6)
-http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
-#EXTINF:-1 ,Big FM (92.7)
-http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
-#EXTINF:-1 ,Jago FM (94.4)
-http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
-#EXTINF:-1 ,Radio Mirchi (98.3)
-http://peridot.streamguys.com:7150/Mirchi
 #EXTINF:-1 ,Discovery Science
 http://new-pro.tv:8080/99622282/etbVXafU6f/288952
 #EXTINF:-1 ,Discovery Channel 
@@ -109,5 +95,18 @@ http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/69598
 http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/1082
 #EXTINF:-1, History
 http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/13991
-
+#EXTINF:-1 , Al Quran Radio
+http://66.45.232.131:9994/;stream.mp3
+#EXTINF:-1 , Radio Amar(88.4)
+http://118.179.215.45:8000/;stream/1
+#EXTINF:-1 ,Bangladesh Betar (88.8)
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+#EXTINF:-1 ,Radio Today (89.6)
+http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+#EXTINF:-1 ,Big FM (92.7)
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+#EXTINF:-1 ,Jago FM (94.4)
+http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+#EXTINF:-1 ,Radio Mirchi (98.3)
+http://peridot.streamguys.com:7150/Mirchi
 
