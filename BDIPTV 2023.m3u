@@ -49,6 +49,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/playlist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/playlist.m3u8
 #EXTINF:-1 ,ATN Bangla(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 ,ATN Bangla UK
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 ,Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 ,Channel 24
@@ -79,3 +81,33 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/288952
 http://mybox.plus:80/hisham/123456/199663
 #EXTINF:-1 ,Nat Geo Wild
 http://mybox.plus:80/hisham/123456/199696
+#EXTINF:-1 ,ABTV.bd
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/playlist.m3u8
+#EXTINT:-1 ,GTV
+https://ythls.onrender.com/channel/UCXuHIkEezOy_b1pnkN0-TIg.m3u8
+#EXTINF:-1 ,Green Tv
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/greentv.stream/playlist.m3u8
+#EXTINF:-1 ,AsiaPacificTV
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1 ,9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 ,AmarBangla
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+#EXTINF:-1 ,ABCNews
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 ,ZooMoo Kids
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 ,DiscoverFilmUk
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Directv Sports 2
+http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/959
+#EXTINF:-1, Discovery Channel
+http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/1067
+#EXTINF:-1, Animal planet
+http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/69598
+#EXTINF:-1, Discovery Turbo
+http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/1082
+#EXTINF:-1, History
+http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/13991
+
+
