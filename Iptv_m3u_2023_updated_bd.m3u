@@ -21,6 +21,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 ,Boishakhi Plus(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
+#EXTINF:-1 ,Boishaki Tv
+http://10.16.100.206:8080/hls/boishakhi.m3u8
+#EXTINF:-1 ,GTV
+http://10.16.100.203:8082/bangla/gaziLocal.m3u8
 #EXTINF:-1 ,Jamuna TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 ,Channel 24(Jagobd)
@@ -75,12 +79,12 @@ http://raw.bitnode.pm:81/giorgi/giorgi/20371
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 #EXTINF:-1 ,ABTV.bd
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/playlist.m3u8
-#EXTINT:-1 ,GTV
-https://ythls.onrender.com/channel/UCXuHIkEezOy_b1pnkN0-TIg.m3u8
 #EXTINF:-1 ,Green Tv
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/greentv.stream/playlist.m3u8
 #EXTINF:-1 ,Star Jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+#EXTINF:-1 ,Zee Bangla
+http://10.16.100.206:8080/hls/ZeeBanglaHD.m3u8
 #EXTINF:-1 ,Sony Entertainment TV
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF:-1 ,Animal Planet
@@ -147,4 +151,6 @@ http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
 #EXTINF:-1 ,Radio Mirchi (98.3)
 http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1 ,Nick (Up)
+http://12.1.1.1:8082/nike/tracks-v1a1/mono.m3u8?token=8a0d9b95cb17f15896b067d8a9538380aaecae2b-1e2e9413ce7de0d820270953447f8117-1691714353-1691703553
 
