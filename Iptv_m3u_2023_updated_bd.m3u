@@ -57,12 +57,16 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 ,Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1 ,Nour TV
+https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 #EXTINF:-1 ,TBN 24 USA
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,iB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
 #EXTINF:-1 , T sports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 ,BT SPORTS 3
+http://raw.bitnode.pm:81/giorgi/giorgi/20371
 #EXTINF:-1 ,Iqra Bangla
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 #EXTINF:-1 ,ABTV.bd
@@ -73,8 +77,22 @@ https://ythls.onrender.com/channel/UCXuHIkEezOy_b1pnkN0-TIg.m3u8
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/greentv.stream/playlist.m3u8
 #EXTINF:-1 ,Star Jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+#EXTINF:-1 ,Sony Entertainment TV
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1 ,Animal Planet
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92950.ts
+#EXTINF:-1 ,Discovery Channel
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93027.ts
+#EXTINF:-1 ,Discovery Science
+http://new-pro.tv:8080/99622282/etbVXafU6f/288952
 #EXTINF:-1, CARTOON NETWORK ABU DHABI
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+#EXTINF:-1 ,Nick Jr.
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93064.ts
+#EXTINF:-1 ,Nick Toons
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93065.ts
+#EXTINF:-1 ,Disney Channel
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93031.ts
 #EXTINF:-1 ,C MOVOIES
 http://208.86.19.13:81/22.stream/index.m3u8
 #EXTINF:-1 ,SUPER HD
@@ -89,20 +107,30 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 #EXTINF:-1 , NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 ,Discovery Science
-http://new-pro.tv:8080/99622282/etbVXafU6f/288952
+#EXTINF:-1 ,Star Movies
+http://appleiptv.com:80/7863/7863/42967
+#EXTINF:-1 ,SONY MAX HD
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:-1 ,B4U Movies
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,AsiaPacificTV
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 ,ABCNews
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 ,9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 ,Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 ,ZooMoo Kids
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 ,DiscoverFilmUk
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,ESPN HD
 http://playhispano.org:8080/FRANKTV/tZRPR2js4F/86978
+#EXTINF:-1 ,Extra TV 42
+http://45.5.117.182:8000/play/a0e0/index.m3u8
+#EXTINF:-1 ,Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 , Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
 #EXTINF:-1 , Radio Amar(88.4)
