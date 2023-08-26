@@ -111,16 +111,6 @@ http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93027.ts
 https://sabbirhasan.pythonanywhere.com/dplus/discovery-ben
 #EXTINF:-1 ,Discovery Science
 http://new-pro.tv:8080/99622282/etbVXafU6f/288952
-#EXTINF:-1 ,Discovery Science(Hindi)
-https://sabbirhasan.pythonanywhere.com/dplus/discoverysci-hin
-#EXTINF:-1 ,TLC (Hindi)
-https://sabbirhasan.pythonanywhere.com/dplus/tlc-hin
-#EXTINF:-1 ,Discovery Turbo
-https://sabbirhasan.pythonanywhere.com/dplus/discoveryturbo
-#EXTINF:-1 ,Discovery ID (English)
-https://sabbirhasan.pythonanywhere.com/dplus/discoveryid-eng
-#EXTINF:-1 ,Discovery ID (Hindi)
-https://sabbirhasan.pythonanywhere.com/dplus/discoveryid-hin
 #EXTINF:-1 ,5 Minutes Crafts
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?X-Plex-Session-Identifier=1zgl7fp9a1uealjgwq5o3c77&X-Plex-Product=Plex%20Web&X-Plex-Version=4.113.2&X-Plex-Client-Identifier=xik1k5p1sthrcbnja4l7ig0o&X-Plex-Platform=Chrome&X-Plex-Platform-Version=116.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=817x659%2C1372x772&X-Plex-Token=AUSCVjjM9PuowE-TLCJp&X-Plex-Language=en&Accept-Language=en&X-Plex-Session-Id=1c5851db-e6fc-4a47-8ea9-5b1ce310b4c3
 #EXTINF:-1, CARTOON NETWORK ABU DHABI
@@ -165,8 +155,6 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 ,DiscoverFilmUk
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,ESPN HD
-http://playhispano.org:8080/FRANKTV/tZRPR2js4F/86978
 #EXIINF:-1 ,Music India
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 ,Sangeet Bangla
