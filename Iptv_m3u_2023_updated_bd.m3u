@@ -103,10 +103,16 @@ http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92950.ts
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93027.ts
 #EXTINF:-1 ,Discovery Science
 http://new-pro.tv:8080/99622282/etbVXafU6f/288952
+#EXTINF:-1 ,5 Minutes Crafts
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?X-Plex-Session-Identifier=1zgl7fp9a1uealjgwq5o3c77&X-Plex-Product=Plex%20Web&X-Plex-Version=4.113.2&X-Plex-Client-Identifier=xik1k5p1sthrcbnja4l7ig0o&X-Plex-Platform=Chrome&X-Plex-Platform-Version=116.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=817x659%2C1372x772&X-Plex-Token=AUSCVjjM9PuowE-TLCJp&X-Plex-Language=en&Accept-Language=en&X-Plex-Session-Id=1c5851db-e6fc-4a47-8ea9-5b1ce310b4c3
 #EXTINF:-1, CARTOON NETWORK ABU DHABI
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+#EXTINF:-1, AFV Family
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd/variant.m3u8?url=5da0ceb2b6cd4ea28e720a0cb5e6f04f-82d14856f409974d164eac7298963d030b8c5a1423cd7bc01e3aedf3a1738dc21edeeae14fb577a186c876d0f8b3cb644f0d3ba185322dc7a01aecfdf03bd08017c55de2883794df871a3c4864cfdf6a61e72bcc9f215b9cd552096940c12e010cccd3d8f05e7bc349f44c7dcdfe7f5538e34bf0432fefca9f2898826484344440ada5e30e869d47946166f1c964ed6887e20ec672c372b96d88704a10aec6faedbff7ca3aeead008c5a7c4d4a82ffad12faa78d1bfb4f0e20fbfdb05f8b65a607fe33952261b281108136ed512b34eb&x-plex-token=AUSCVjjM9PuowE-TLCJp&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1693026154
 #EXTINF:-1 ,Nick Jr.
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93064.ts
+#EXTINF:-1 ,Toon GoGGles
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc794.m3u8?X-Plex-Session-Identifier=zqssfr8gawp0msyzuoyt14f0&X-Plex-Product=Plex%20Web&X-Plex-Version=4.113.2&X-Plex-Client-Identifier=xik1k5p1sthrcbnja4l7ig0o&X-Plex-Platform=Chrome&X-Plex-Platform-Version=116.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=817x659%2C1372x772&X-Plex-Token=AUSCVjjM9PuowE-TLCJp&X-Plex-Language=en&Accept-Language=en&X-Plex-Session-Id=1c5851db-e6fc-4a47-8ea9-5b1ce310b4c3
 #EXTINF:-1 ,Nick Toons
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93065.ts
 #EXTINF:-1 ,Disney Channel
@@ -147,6 +153,8 @@ http://playhispano.org:8080/FRANKTV/tZRPR2js4F/86978
 http://45.5.117.182:8000/play/a0e0/index.m3u8
 #EXIINF:-1 ,Music India
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 ,Sangeet Bangla
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 , Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
 #EXTINF:-1 , Radio Amar(88.4)
@@ -161,6 +169,5 @@ http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
 #EXTINF:-1 ,Radio Mirchi (98.3)
 http://peridot.streamguys.com:7150/Mirchi
-#EXTINF:-1 ,Nick (Up)
-http://12.1.1.1:8082/nike/tracks-v1a1/mono.m3u8?token=8a0d9b95cb17f15896b067d8a9538380aaecae2b-1e2e9413ce7de0d820270953447f8117-1691714353-1691703553
-
+#EXTINF:-1 ,Sony Yay up
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_yay_320/sony_yay_320.m3u8?bitrate=768000&channel=sony_yay_320&gp_id=
