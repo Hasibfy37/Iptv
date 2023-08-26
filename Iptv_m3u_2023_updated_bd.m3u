@@ -118,9 +118,7 @@ http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93065.ts
 #EXTINF:-1 ,Disney Channel
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93031.ts
 #EXTINF:-1 ,C MOVOIES
-http://208.86.19.13:81/22.stream/index.m3u8
-#EXTINF:-1 ,SUPER HD
-http://142.132.136.139:8000/play/a003/index.m3u8
+http://208.86.19.13:81/22.stream/index.m3u8
 #EXTINF:-1 ,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 ,AmarBangla
