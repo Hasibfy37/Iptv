@@ -167,8 +167,6 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,ESPN HD
 http://playhispano.org:8080/FRANKTV/tZRPR2js4F/86978
-#EXTINF:-1 ,Extra TV 42
-http://45.5.117.182:8000/play/a0e0/index.m3u8
 #EXIINF:-1 ,Music India
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 ,Sangeet Bangla
@@ -187,5 +185,4 @@ http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
 #EXTINF:-1 ,Radio Mirchi (98.3)
 http://peridot.streamguys.com:7150/Mirchi
-#EXTINF:-1 ,Sony Yay up
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_yay_320/sony_yay_320.m3u8?bitrate=768000&channel=sony_yay_320&gp_id=
+
