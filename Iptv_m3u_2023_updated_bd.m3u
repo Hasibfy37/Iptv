@@ -73,7 +73,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 ,Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:-1 tvg-id="B24C.bd",B24C
+#EXTINF:-1 ,B24C
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/b24c.stream/playlist.m3u8
 #EXTINF:-1 ,TBN 24 USA
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
@@ -118,7 +118,7 @@ http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93065.ts
 #EXTINF:-1 ,Disney Channel
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93031.ts
 #EXTINF:-1 ,C MOVOIES
-http://208.86.19.13:81/22.stream/index.m3u8
+http://208.86.19.13:81/22.stream/index.m3u8
 #EXTINF:-1 ,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 ,AmarBangla
