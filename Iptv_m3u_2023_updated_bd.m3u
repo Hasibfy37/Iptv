@@ -4,7 +4,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 ,Anondo TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 ,Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,RTV
 https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream_480p/chunks.m3u8
 #EXTINF:-1 , Somoy TV
@@ -67,6 +67,8 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-1 ,DESHI TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 ,Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 ,Nour TV
@@ -99,10 +101,26 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF:-1 ,Animal Planet
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92950.ts
+#EXTINF:-1 ,Animal Planet English
+https://sabbirhasan.pythonanywhere.com/dplus/animalplanet-eng
+#EXTINF:-1 ,Animal Planet (Hindi)
+https://sabbirhasan.pythonanywhere.com/dplus/animalplanet-hin
 #EXTINF:-1 ,Discovery Channel
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93027.ts
+#EXTINF:-1 ,Discovery Channel (Bangla)
+https://sabbirhasan.pythonanywhere.com/dplus/discovery-ben
 #EXTINF:-1 ,Discovery Science
 http://new-pro.tv:8080/99622282/etbVXafU6f/288952
+#EXTINF:-1 ,Discovery Science(Hindi)
+https://sabbirhasan.pythonanywhere.com/dplus/discoverysci-hin
+#EXTINF:-1 ,TLC (Hindi)
+https://sabbirhasan.pythonanywhere.com/dplus/tlc-hin
+#EXTINF:-1 ,Discovery Turbo
+https://sabbirhasan.pythonanywhere.com/dplus/discoveryturbo
+#EXTINF:-1 ,Discovery ID (English)
+https://sabbirhasan.pythonanywhere.com/dplus/discoveryid-eng
+#EXTINF:-1 ,Discovery ID (Hindi)
+https://sabbirhasan.pythonanywhere.com/dplus/discoveryid-hin
 #EXTINF:-1 ,5 Minutes Crafts
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?X-Plex-Session-Identifier=1zgl7fp9a1uealjgwq5o3c77&X-Plex-Product=Plex%20Web&X-Plex-Version=4.113.2&X-Plex-Client-Identifier=xik1k5p1sthrcbnja4l7ig0o&X-Plex-Platform=Chrome&X-Plex-Platform-Version=116.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=817x659%2C1372x772&X-Plex-Token=AUSCVjjM9PuowE-TLCJp&X-Plex-Language=en&Accept-Language=en&X-Plex-Session-Id=1c5851db-e6fc-4a47-8ea9-5b1ce310b4c3
 #EXTINF:-1, CARTOON NETWORK ABU DHABI
