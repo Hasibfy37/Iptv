@@ -15,7 +15,7 @@ https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFz
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 ,Makkah TV
 https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/playlist.m3u8
-#EXTINF:-1 ,Deepto TV(Jagobd)
+#EXTINF:-1,Deepto TV
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 ,Asian TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
@@ -29,12 +29,14 @@ http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 http://10.16.100.206:8080/hls/boishakhi.m3u8
 #EXTINF:-1 ,GTV
 http://10.16.100.203:8082/bangla/gaziLocal.m3u8
+#EXTINF:-1 ,Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 ,Jamuna TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 ,Channel 24(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 ,News 24(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
+http://10.16.100.203:8082/bangla/channel24L0cal.m3u8
 #EXTINF:-1 ,Channel S UK
 http://208.86.19.13:81/519.stream/index.m3u8
 #EXTINF:-1 ,Channel S
@@ -47,6 +49,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
 #EXTINF:-1 ,DBC News(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 ,BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 ,ATN Music(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 ,Bangla Talkies
@@ -80,13 +84,21 @@ https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,iB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
 #EXTINF:-1 , T sports
-https://live.tsports.com/live/tsports_live_720/index.m3u8
+http://10.16.100.203:8082/bangla/tsp0rtsBD.m3u8
+#EXTINF:-1,DD Bangla
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155776&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 ,Iqra Bangla
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 #EXTINF:-1 ,ABTV.bd
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/playlist.m3u8
 #EXTINF:-1 ,Green Tv
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/greentv.stream/playlist.m3u8
+#EXTINF:-1,Time tv
+http://208.86.19.13:81/506.stream/index.m3u8
+#EXTINF:-1,Mim tv
+http://208.86.19.13:81/502.stream/index.m3u8
+#EXTINF:-1,Nandan TV
+http://nandansyst.com/hls/nandan.m3u8?token=soheliptv01826655778
 #EXTINF:-1 ,Star Jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 ,Zee Bangla
@@ -97,6 +109,8 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB-audio_98835_hin=98800-video=765200.m3u8
 #EXTINF:-1 ,Sony Entertainment TV
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1, TED
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ab5aabbb869dd0df6a3487/variant.m3u8?url=99c543040c9e479bbfc98359a0f331ac-00530336ec003eaf8285e6d230fdc28a552664b77a754a3bb7fb9b1a919c3e70ff69da3ce2fcf35c190411867c8190441ce16f9d5f93dd2c1a699e326945595414d38dc01a5e0a6a023a41833d75f5bc32cfa46e57de5dde8321d02b49b33ff439e08a32c10ab92760ecdd962955c6a5afced5ccb4f3566e250d78056c1d318fa2aa9bf7713c0cc114e948aeaf2a4bde3cf7e23488a8aa1f305d0e741dda554db5aa6e8580c9b53162dae9c7ef36dd0f44e7768df9d317c8b798cb5887c5da77&x-plex-token=2K4jAcu2W5xoEFAb6ZnK&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1693055491
 #EXTINF:-1 ,Animal Planet
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92950.ts
 #EXTINF:-1 ,Discovery Channel
@@ -107,18 +121,26 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/288952
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?X-Plex-Session-Identifier=1zgl7fp9a1uealjgwq5o3c77&X-Plex-Product=Plex%20Web&X-Plex-Version=4.113.2&X-Plex-Client-Identifier=xik1k5p1sthrcbnja4l7ig0o&X-Plex-Platform=Chrome&X-Plex-Platform-Version=116.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=817x659%2C1372x772&X-Plex-Token=AUSCVjjM9PuowE-TLCJp&X-Plex-Language=en&Accept-Language=en&X-Plex-Session-Id=1c5851db-e6fc-4a47-8ea9-5b1ce310b4c3
 #EXTINF:-1, CARTOON NETWORK ABU DHABI
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+#EXTINF:-1,Rongeen tv
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 #EXTINF:-1, AFV Family
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd/variant.m3u8?url=5da0ceb2b6cd4ea28e720a0cb5e6f04f-82d14856f409974d164eac7298963d030b8c5a1423cd7bc01e3aedf3a1738dc21edeeae14fb577a186c876d0f8b3cb644f0d3ba185322dc7a01aecfdf03bd08017c55de2883794df871a3c4864cfdf6a61e72bcc9f215b9cd552096940c12e010cccd3d8f05e7bc349f44c7dcdfe7f5538e34bf0432fefca9f2898826484344440ada5e30e869d47946166f1c964ed6887e20ec672c372b96d88704a10aec6faedbff7ca3aeead008c5a7c4d4a82ffad12faa78d1bfb4f0e20fbfdb05f8b65a607fe33952261b281108136ed512b34eb&x-plex-token=AUSCVjjM9PuowE-TLCJp&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1693026154
 #EXTINF:-1 ,Nick Jr.
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93064.ts
+#EXTINF:-1,Nick
+http://103.141.2.37:25461/web/web/615
 #EXTINF:-1 ,Toon GoGGles
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc794.m3u8?X-Plex-Session-Identifier=zqssfr8gawp0msyzuoyt14f0&X-Plex-Product=Plex%20Web&X-Plex-Version=4.113.2&X-Plex-Client-Identifier=xik1k5p1sthrcbnja4l7ig0o&X-Plex-Platform=Chrome&X-Plex-Platform-Version=116.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=817x659%2C1372x772&X-Plex-Token=AUSCVjjM9PuowE-TLCJp&X-Plex-Language=en&Accept-Language=en&X-Plex-Session-Id=1c5851db-e6fc-4a47-8ea9-5b1ce310b4c3
 #EXTINF:-1 ,Nick Toons
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93065.ts
+#EXTINF:-1, Fail Army
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e/variant.m3u8?url=7c28af2d4992f987c1f568b0a38de498-66f47ec606a35aa97ee6d28e0f8dbcd7c62c547eb574511912a4c9a178f500780c274d3f97a3bb006106e0497ef569e83a3ffc6ebc4ba14a76fbcc3b03584157f4530375ca42262cec56c82236c183c0b0d08741fba7560b0e95dbed2e308e33cd1bbb92c4077946503d5f9436d6cbcc8e3e7da00acf488883b1f3fab984296120b2cb0d0f6e2121a6a08edbcf8fc97b9c7c8a363b593e01ba18becef2db25d5272c753dff89643a7dd323ff3b7863cea7ff5ca59984a82d397885cefc6eca12b8e2f3421ee996c673f40cc11fe4708b&x-plex-token=2K4jAcu2W5xoEFAb6ZnK&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1693055566
 #EXTINF:-1 ,Disney Channel
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93031.ts
 #EXTINF:-1 ,C MOVOIES
 http://208.86.19.13:81/22.stream/index.m3u8
+#EXTINF:-1,Movie Sphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 ,AmarBangla
@@ -145,10 +167,14 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 ,DiscoverFilmUk
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXIINF:-1 ,Music India
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 ,Sangeet Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1,Hollywood HD
+http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1 , Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
 #EXTINF:-1 , Radio Amar(88.4)
