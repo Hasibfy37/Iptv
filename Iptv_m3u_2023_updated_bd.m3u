@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,Test somoy
-https://edge4.bioscopelive.com/hls/anonymous/yt9qmC91mGNFE5WZx8v3RQ/1693028146/live-somoy-news-tv.m3u8
 #EXTINF:-1,BTV HD
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 ,Anondo TV
