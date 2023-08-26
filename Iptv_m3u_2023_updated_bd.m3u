@@ -13,10 +13,18 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 ,MY TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1,Independent
+http://103.141.2.37:25461/web/web/590
 #EXTINF:-1 ,Makkah TV
 https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/playlist.m3u8
+#EXTINF:-1,Madani
+http://103.141.2.37:25461/web/web/618
 #EXTINF:-1,Deepto TV
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1,Channel I
+http://103.141.2.37:25461/web/web/595
+#EXTINF:-1,Maasranga
+http://103.141.2.37:25461/web/web/596
 #EXTINF:-1 ,Asian TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 ,Bangla TV(Jagobd)
@@ -75,6 +83,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 ,Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1,ITV Bangla
+http://str24.l9574.com/512.stream/index.m3u8
 #EXTINF:-1 ,Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 #EXTINF:-1 ,B24C
@@ -103,20 +113,34 @@ http://nandansyst.com/hls/nandan.m3u8?token=soheliptv01826655778
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 ,Zee Bangla
 http://10.16.100.206:8080/hls/ZeeBanglaHD.m3u8
+#EXTINF:-1,Enterr 10
+http://103.141.2.37:25461/web/web/606
 #EXTINF:-1 ,Colours Bangla
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/Colors_Bangla_HD_voot_MOB-audio_98835_ben=98800-video=765200.m3u8
 #EXTINF:-1 ,Colours Tv Hindi
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB-audio_98835_hin=98800-video=765200.m3u8
+#EXTINF:-1,Zee_Bangla_Cinema
+http://103.141.2.37:25461/web/web/598
+#EXTINF:-1,Colore Bangla Cinema
+http://103.141.2.37:25461/web/web/599
 #EXTINF:-1 ,Sony Entertainment TV
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1,STAR PLUS HD
+http://144.217.70.181:9587/hin2/STARPLUSUK/index.m3u8?token=test&v=697229347
+#EXTINF:-1,Sun Bangla
+http://103.141.2.37:25461/web/web/589
 #EXTINF:-1, TED
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ab5aabbb869dd0df6a3487/variant.m3u8?url=99c543040c9e479bbfc98359a0f331ac-00530336ec003eaf8285e6d230fdc28a552664b77a754a3bb7fb9b1a919c3e70ff69da3ce2fcf35c190411867c8190441ce16f9d5f93dd2c1a699e326945595414d38dc01a5e0a6a023a41833d75f5bc32cfa46e57de5dde8321d02b49b33ff439e08a32c10ab92760ecdd962955c6a5afced5ccb4f3566e250d78056c1d318fa2aa9bf7713c0cc114e948aeaf2a4bde3cf7e23488a8aa1f305d0e741dda554db5aa6e8580c9b53162dae9c7ef36dd0f44e7768df9d317c8b798cb5887c5da77&x-plex-token=2K4jAcu2W5xoEFAb6ZnK&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1693055491
 #EXTINF:-1 ,Animal Planet
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92950.ts
+#EXTINF:-1,ANIMAL PLANET Test
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93027.ts
 #EXTINF:-1 ,Discovery Science
 http://new-pro.tv:8080/99622282/etbVXafU6f/288952
+#EXTINF:-1,DW(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 ,5 Minutes Crafts
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?X-Plex-Session-Identifier=1zgl7fp9a1uealjgwq5o3c77&X-Plex-Product=Plex%20Web&X-Plex-Version=4.113.2&X-Plex-Client-Identifier=xik1k5p1sthrcbnja4l7ig0o&X-Plex-Platform=Chrome&X-Plex-Platform-Version=116.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=817x659%2C1372x772&X-Plex-Token=AUSCVjjM9PuowE-TLCJp&X-Plex-Language=en&Accept-Language=en&X-Plex-Session-Id=1c5851db-e6fc-4a47-8ea9-5b1ce310b4c3
 #EXTINF:-1, CARTOON NETWORK ABU DHABI
@@ -152,7 +176,9 @@ http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 #EXTINF:-1 , NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 ,SONY MAX HD
-http://208.86.19.13:81/7066.stream/index.m3u8
+http://144.217.70.181:9587/hin2/SONYMAXHD/playlist.m3u8?token=test
+#EXTINF:-1,SONY.MAX 2
+http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1 ,B4U Movies
 http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,AsiaPacificTV
