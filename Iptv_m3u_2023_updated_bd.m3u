@@ -9,10 +9,12 @@ http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.
 https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 ,MY TV(Jagobd)
 http://bd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 Gazi TV
+#EXTINF:-1 ,Gazi TV
 https://ythls.onrender.com/channel/UCXuHIkEezOy_b1pnkN0-TIg.m3u8
-#EXTINF:-1,T-Sports 
+#EXTINF:-1 ,T-Sports 
 https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 ,Star sports 1
+http://10.16.100.206:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1,R Plus Gold(BD2)
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:-1,Independent
