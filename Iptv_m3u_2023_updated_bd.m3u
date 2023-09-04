@@ -1,6 +1,10 @@
 #EXTM3U 
-#EXTINF:-1,AsiaPacificTV
-https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1 ,BTV
+https://www.btvlive.gov.bd/streams/81a215d8-4116-48cb-a4b7-d8b63ece946a/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
+#EXTINF:-1 ,BTV Chottogram
+https://www.btvlive.gov.bd/streams/81a215d8-4116-48cb-a4b7-d8b63ece946a/BD/a707f2dc-9704-413a-a67c-17c64a77c350/a707f2dc-9704-413a-a67c-17c64a77c350_3_playlist.m3u8
+#EXTINF:-1 ,Sangsad TV
+https://www.btvlive.gov.bd/streams/81a215d8-4116-48cb-a4b7-d8b63ece946a/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/9ee3b4f9-fd0a-47c5-a135-2575c5691613_3_playlist.m3u8
 #EXTINF:-1,Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,Shomoy TV
@@ -81,6 +85,8 @@ http://208.86.19.13:81/509.stream/index.m3u8
 https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-1,DD Bangla
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155776&extension=ts&play_token=otM0DQF4Ff
+#EXTINF:-1 ,News18
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/News18_Bangla_NW18_MOB-audio_131636_eng=131600-video=699600.m3u8
 #EXTINF:-1,Iqra Bangla
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 #EXTINF:-1,ABTV.bd
@@ -173,6 +179,8 @@ http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 , Gaan Bangla
 http://10.16.100.215:8080/hls/gaanBanglahd.m3u8
+#EXTINF:-1,AsiaPacificTV
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1,Discovery Kids
 https://mhdtvworld.me/delta/discovery/api/Discovery_Kids_Hindi.m3u8
 #EXTINF:-1,Al Quran Radio
