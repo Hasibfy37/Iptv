@@ -172,12 +172,13 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #sports
 
+
+#EXTINF:-1,Star sports 1
+http://10.16.100.215:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1,T-Sports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1,Ad Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1,Star sports 1
-http://10.16.100.206:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1,MUTV (Manchester United TV)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
 
