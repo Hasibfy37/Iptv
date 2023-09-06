@@ -11,6 +11,8 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1,Jamuna TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1,Jamuna TV (2)
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1,Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1,SATV
@@ -23,7 +25,7 @@ https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://10.16.100.215:8080/hls/BanglaVision.m3u8
 #EXTINF:-1 , Channel-9
 http://10.16.100.206:8080/hls/channel9.m3u8
-#EXTINF:-1,MY TV(Jagobd)
+#EXTINF:-1,MY TV
 http://bd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1,My TV (2)
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/playlist.m3u8
@@ -64,6 +66,16 @@ https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,Mim TV
 http://208.86.19.13:81/502.stream/index.m3u8
 #EXTINF:-1,রাজধানী-টিভি
+https://rajdhani.jaagobd.com:444/rajdhanitv/rajdhanitv.stream/playlist.m3u8
+#EXTINF:-1,Green TV (1080p) [Not 24/7]
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/greentv.stream/playlist.m3u8
+#EXTINF:-1,Channel S (1080p)
+https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
+#EXTINF:-1,ATN Bangla UK (576p)
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1,Bangla21 TV (720p) [Not 24/7]
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/playlist.m3u8
+
 
 
 
@@ -128,18 +140,8 @@ https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 
 #EXTINF:-1,RTV Music (720p) [Not 24/7]
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/playlist.m3u8
-#EXTINF:-1,Jamuna TV (720p) [Not 24/7]
-https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
-#EXTINF:-1,Green TV (1080p) [Not 24/7]
-https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/greentv.stream/playlist.m3u8
-#EXTINF:-1,Channel S (1080p)
-https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
-#EXTINF:-1,ATN Bangla UK (576p)
-https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1,ATN Music (360p) [Not 24/7]
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1,Bangla21 TV (720p) [Not 24/7]
-https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/playlist.m3u8
 
 
 
