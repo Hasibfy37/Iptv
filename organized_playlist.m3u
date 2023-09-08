@@ -57,10 +57,8 @@ http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1323.ts
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1312.ts
 #EXTINF:-1 tvg-id="" tvg-name="DURONTO TV" tvg-logo="https://duronto.tv/global/admin/images/setting/logo2.png" group-title="BANGLADESHI KIDS",DURONTO TV
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1778.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3PpE1kzCHUAWWIBCx5ANKdc6oj6Pj7gjoFQ&usqp=CAU" group-title="BANGLADESHI",GLOBAL TV
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4645.ts
-#EXTINF:-1 tvg-id="" tvg-name="NEXUS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4JKtLc9p_KBuXbiaOafBYdAUlNR3B6lu1wXjW1yKRZKHi9_VPiq9SVD8VYmqD_4F8GfA&usqp=CAU" group-title="BANGLADESHI",NEXUS TV
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2820.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="EKHON TV" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3ffb1ec8-6553-4130-b63f-aac838c014a4/51e0aaee-7f68-4f9b-b404-5a40e51e9596.png?width=300" group-title="BANGLADESHI",EKHON TV
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/13363.ts
 #EXTINF:-1 tvg-id="" tvg-name="GAANBANGLA-TV" tvg-logo="https://1.bp.blogspot.com/-5Gvpy5DsstU/X7kf6ZZ2idI/AAAAAAAAA7Q/I-sJBwG1SVkojbmk05YmQorGb6nEoWlgACPcBGAYYCw/w800/Gaan-Bangla-TV-Live.png" group-title="BANGLADESHI",GAANBANGLA-TV
@@ -69,12 +67,10 @@ http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1339.ts
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1300.ts
 #EXTINF:-1 tvg-id="" tvg-name="SOMOY NEWS" tvg-logo="https://cdn.mos.cms.futurecdn.net/j8qVSzynsJdmJKLHqptq7L.png" group-title="BANGLADESHI",SOMOY NEWS
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1333.ts
-#EXTINF:-1 tvg-id="" tvg-name="SOMOY NEWS HD" tvg-logo="https://cdn.mos.cms.futurecdn.net/j8qVSzynsJdmJKLHqptq7L.png" group-title="BANGLADESHI",SOMOY NEWS HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3178.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="JAMUNA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyAXdQqMTgdpP377689XD9oOtCppiFsKTzGg&usqp=CAU" group-title="BANGLADESHI",JAMUNA TV
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1332.ts
-#EXTINF:-1 tvg-id="" tvg-name="JAMUNA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyAXdQqMTgdpP377689XD9oOtCppiFsKTzGg&usqp=CAU" group-title="BANGLADESHI",JAMUNA TV HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3452.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT" tvg-logo="https://pcdn1.jagobd.com/images/s-43tn3j1652458082734.jpg" group-title="BANGLADESHI",INDEPENDENT
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1326.ts
 #EXTINF:-1 tvg-id="" tvg-name="DBC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLADESHI",DBC NEWS
@@ -99,8 +95,7 @@ http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1327.ts
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1346.ts
 #EXTINF:-1 tvg-id="" tvg-name="NAN TV" tvg-logo="https://nantvbd.com/wp-content/uploads/2022/09/nan_logo_250.png" group-title="BANGLADESHI",NAN TV
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4622.ts
-#EXTINF:-1 tvg-id="" tvg-name="PEN TV " tvg-logo="https://pcdn1.jagobd.com/images/s-a5nshd1603371786323.jpg" group-title="BANGLADESHI",PEN TV
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2733.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="NTV EUROPE" tvg-logo="https://i0.wp.com/www.bangladeshcircle.com/wp-content/uploads/2015/07/NTV-Europe-logo.jpg?ssl=1" group-title="PROBASHI BANGLA",NTV EUROPE
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1625.ts
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL EUROPE" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/cheu.png" group-title="PROBASHI BANGLA",CHANNEL EUROPE
