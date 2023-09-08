@@ -6,6 +6,8 @@
 
 #EXTINF:-1 ,BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
+#EXTINF:-1, BTV WORLD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1302.ts
 #EXTINF:-1,Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,Shomoy TV
@@ -247,6 +249,8 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB-audio_98835_hin=98800-video=765200.m3u8
 #EXTINF:-1,STAR PLUS HD
 http://144.217.70.181:9587/hin2/STARPLUSUK/index.m3u8?token=test&v=697229347
+#EXTINF:-1, STAR PLUS HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2354.ts
 #EXTINF:-1,Bflix MoviesStar Bharat HD
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
 #EXTINF:-1,UTV Action
@@ -284,6 +288,8 @@ https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/i
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1,Music India
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1, MTV BEATS HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4663.ts
 #EXTINF:-1 , Gaan Bangla
 http://10.16.100.215:8080/hls/gaanBanglahd.m3u8
 #EXTINF:-1,Boogle Bollywood
@@ -304,6 +310,10 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
 #EXTINF:-1,Movie Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8
+#EXTINF:-1, JALSHA MOVIES HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2528.ts
+#EXTINF:-1, COLORS BANGLA CINE
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/13888.ts
 #EXTINF:-1,SONY MAX SD
 http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,SONY MAX-2
@@ -354,6 +364,12 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #Informative
 
 
+#EXTINF:-1, DISCOVERY BENGALI
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3343.ts
+#EXTINF:-1, ANIMAL PLANET HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1425.ts
+#EXTINF:-1, FOX LIFE HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2957.ts
 #EXTINF:-1,Animal Planet
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92950.ts
 #EXTINF:-1,ANIMAL PLANET Test
@@ -393,6 +409,10 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1,DURONTO TV
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1778.ts
+#EXTINF:-1, DISNEY HINDI
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3360.ts
+#EXTINF:-1, GUBBARE KIDS HINDI
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2750.ts
 #EXTINF:-1,Nandan TV
 http://nandansyst.com/hls/nandan.m3u8?token=soheliptv01826655778
 #EXTINF:-1,Nick Jr.
@@ -427,8 +447,8 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1,Nick
 http://103.141.2.37:25461/web/web/615
-#EXTINF:-1,Discovery Kids
-https://mhdtvworld.me/delta/discovery/api/Discovery_Kids_Hindi.m3u8
+#EXTINF:-1, DISCOVERY KIDS
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1826.ts
 #EXTINF:-1,Disney Channel
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93031.ts
 #EXTINF:-1,Sonic
