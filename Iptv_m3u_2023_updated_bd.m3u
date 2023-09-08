@@ -138,6 +138,8 @@ https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 #EXTINF:-1,কুমিল্লা-টিভি
 http://103.149.142.133/0.m3u8
+#EXTINF:-1,পেন ভিশন-টিভি
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/playlist.m3u8
 #EXTINF:-1,AsiaPacificTV
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1,Qatar TV 2 (720p)
@@ -193,8 +195,16 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1,MUTV (Manchester United TV)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
-
-
+#EXTINF:0, Art Sports
+https://hls.rtasport.live/hls/stream.m3u8
+#EXTINF:0, Ten Sports
+http://livespecial.multistreamz.com:8081/minerva/tensports/playlist.m3u8
+#EXTINF:-1, VIVAPLAY
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:-1, Edge SPORTS
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1, Red Bull Tv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
@@ -260,6 +270,8 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 #EXTINF:-1,RTV Music (720p) [Not 24/7]
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/playlist.m3u8
+#EXTINF:-1,RTV Music (2)
+https://ythls.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 #EXTINF:-1,ATN Music (360p) [Not 24/7]
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1,ATN Music (2)
@@ -278,7 +290,8 @@ http://10.16.100.215:8080/hls/gaanBanglahd.m3u8
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1,Sangeet Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-
+#EXTINF:-1, SHOW Box MUSIC
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
 
 
@@ -315,8 +328,24 @@ http://208.86.19.13:81/7066.stream/index.m3u8
 http://162.244.81.200:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,রূপসী বাংলা
 http://5fe9adb07250c.streamlock.net:1935/live/rup/playlist.m3u8
-
-
+#EXTINF:-1,Mbc Bollywood
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1,Bplex Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF-1: Joj Cinema
+https://st01-1.iptv.joj.sk/105-tv-pc.m3u8
+#EXTINF-1: Rock Action
+http://210.210.155.37/session/26dad2fe-a570-11ed-9356-bc88983ac668/dr9445/h/h15/01.m3u8
+#EXTINF-1: Rock
+http://210.210.155.35/dr9445/h/h16/index.m3u8
+#EXTINF-1: Hits Movie
+http://210.210.155.37/session/0eb57594-a570-11ed-bd42-b0d997ea6397/dr9445/h/h38/01.m3u8
+#EXTINF-1: Hits
+http://210.210.155.37/session/5951646e-a570-11ed-bd9b-a56f9bd43ce6/dr9445/h/h37/01.m3u8
+#EXTINF-1: MovieBox
+https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+#EXTINF-1: Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 
 
@@ -343,8 +372,10 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1,NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
-
+#EXTINF:-1, Wired 2-Fish
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+#EXTINF:-1, Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 
 
