@@ -106,6 +106,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/nantv.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1,Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-99 tvg-logo="https://play-lh.googleusercontent.com/OEWoQLFEqbYmOODhynK_BjfJipE-3OqfSZ8hOSnbwhlGpo8h6OQjte6iEWBmPQsHiOo",Bangla Channel
+http://jupiter.bdcabletv.com/BanglachannelNY/video.m3u8
 #EXTINF:-1,ITV Bangla
 http://str24.l9574.com/512.stream/index.m3u8
 #EXTINF: -1 ,BIJOY TV HD [BD]
@@ -134,6 +136,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1,I tv
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
+#EXTINF:-1,কুমিল্লা-টিভি
+http://103.149.142.133/0.m3u8
 #EXTINF:-1,AsiaPacificTV
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1,Qatar TV 2 (720p)
@@ -168,7 +172,8 @@ https://ythls.onrender.com/channel/UCdF5Q5QVbYstYrTfpgUl0ZA.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,ABCNews
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
+#EXTINF:-1,High News
+http://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
 
 
@@ -224,6 +229,8 @@ https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1,Zee Bangla
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155774&extension=ts&play_token=otM0DQF4Ff
+#EXTINF:-1,Zee Bangla HD 2
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/thenayeemparvez.m3u8
 #EXTINF:-1,Colours Bangla
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/Colors_Bangla_HD_voot_MOB-audio_98835_ben=98800-video=765200.m3u8
 #EXTINF:-1,Colours Tv Hindi
@@ -304,8 +311,10 @@ http://iptv.prosto.tv:7000/ch50/video.m3u8
 http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1,SONY MAX HD
 http://208.86.19.13:81/7066.stream/index.m3u8
-
-
+#EXTINF:-1,এফবি-টিভি
+http://162.244.81.200:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,রূপসী বাংলা
+http://5fe9adb07250c.streamlock.net:1935/live/rup/playlist.m3u8
 
 
 
@@ -329,7 +338,7 @@ http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93030.ts
 #EXTINF:-1,Xlpore English(BD)
 http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1,travel xp HD
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155748&extension=ts&play_token=otM0DQF4Ff
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1,NASA TV
@@ -403,6 +412,8 @@ https://mhdtv.co.in/jio/app/live/1345/Sonic_Bangla/index.m3u8
 
 #EXTINF:-1,Brat TV (1080p)
 https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,ফাল্গুনী টিভি 
+http://khan.qcast.live:1009/falgunitv/livestream/playlist.m3u8
 
 
 
