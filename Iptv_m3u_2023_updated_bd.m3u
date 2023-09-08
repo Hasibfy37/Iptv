@@ -20,6 +20,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1,Channel i
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+#EXTINF: -1,Ekattor TV
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3113.ts
 #EXTINF:-1,Deepto TV
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1,Deepto TV(2)
@@ -106,8 +108,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1,ITV Bangla
 http://str24.l9574.com/512.stream/index.m3u8
-#EXTINF:-1,Bijoy TV (720p) [Not 24/7]
-https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
+#EXTINF: -1 ,BIJOY TV HD [BD]
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1318.m3u8
+#EXTINF: -1 , Desh Tv [BD]
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1320.ts
 #EXTINF:-1,BiswaBangla 24 (720p) [Not 24/7]
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/playlist.m3u8
 #EXTINF:-1,Bloomberg TV Asia (576p)
@@ -347,6 +351,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #Kids
 
 
+#EXTINF:-1,DURONTO TV
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1778.ts
 #EXTINF:-1,Nandan TV
 http://nandansyst.com/hls/nandan.m3u8?token=soheliptv01826655778
 #EXTINF:-1,Nick Jr.
