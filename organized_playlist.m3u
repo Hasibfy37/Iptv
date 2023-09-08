@@ -108,47 +108,7 @@ http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1336.ts
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1343.ts
 #EXTINF:-1 tvg-id="starjalsha.in" tvg-name="STAR JALSHA SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Star_Jalsha_2012.png/revision/latest/scale-to-width-down/200?cb=20191203094754" group-title="KOLKATA BANGLA",STAR JALSHA SD
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2533.ts
-#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="STAR JALSHA FHD " tvg-logo="https://i.ibb.co/9p7dr4y/Star-Jalsha.png" group-title="KOLKATA BANGLA",STAR JALSHA FHD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1562.ts
-#EXTINF:-1 tvg-id="colorsbangla.in" tvg-name="ZEE BANGLA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZpVaIX9jniVOPy443KHc0_Bvg6zVwTqxPg&usqp=CAU" group-title="KOLKATA BANGLA",ZEE BANGLA HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2527.ts
-#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="ZEE BANGLA FHD" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/Zee-Bangla-HD.png" group-title="KOLKATA BANGLA",ZEE BANGLA FHD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1347.ts
-#EXTINF:-1 tvg-id="zeebanglacinema.in" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="KOLKATA BANGLA",ZEE BANGLA CINEMA
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2351.ts
-#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="JALSHA MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/250?cb=20190810163545" group-title="KOLKATA BANGLA",JALSHA MOVIES HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2528.ts
-#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="JALSHA MOVIES FHD " tvg-logo="https://user-images.githubusercontent.com/78508217/109848137-1f6ca400-7c7a-11eb-883b-d172f207102f.png" group-title="KOLKATA BANGLA",JALSHA MOVIES FHD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1563.ts
-#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="COLORS BANGLA HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109337125-8bbc6180-788e-11eb-9a18-efc8584e4331.png" group-title="KOLKATA BANGLA",COLORS BANGLA HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4665.ts
-#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="COLORS BANGLA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpUxFrgBnfxjWw_9miC7agwtwkFwvg1jW2pw&usqp=CAU" group-title="KOLKATA BANGLA",COLORS BANGLA FHD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1565.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINE" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/30ebec11-5004-4bf7-9c5c-d604edc23dc5/1892d401-f522-4ef8-959e-7e3a3d2f1fc7.png?width=300" group-title="KOLKATA BANGLA",COLORS BANGLA CINE
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/13888.ts
-#EXTINF:-1 tvg-id="sonyaath.in" tvg-name="SONY AATH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png/revision/latest?cb=20221023220726" group-title="KOLKATA BANGLA",SONY AATH
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1354.ts
-#EXTINF:-1 tvg-id="sunbangla.in" tvg-name="SUN BANGLA" tvg-logo="https://sund-images.sunnxt.com/75117/300x300_4b19b530-f0bb-4b26-a9de-f3cdd5f8be20.jpg" group-title="KOLKATA BANGLA",SUN BANGLA
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1353.ts
-#EXTINF:-1 tvg-id="sangeetbangla.in" tvg-name=" SANGEET BANGLA" tvg-logo="https://user-images.githubusercontent.com/78508217/109848144-22679480-7c7a-11eb-8992-f803a3a7de31.png" group-title="KOLKATA BANGLA", SANGEET BANGLA
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3187.ts
-#EXTINF:-1 tvg-id="" tvg-name="BANGLA TALKIES" tvg-logo="https://raw.githubusercontent.com/project-a-app/lg.collect/main/bantalki.png" group-title="KOLKATA BANGLA",BANGLA TALKIES
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4510.ts
-#EXTINF:-1 tvg-id="" tvg-name="DHOOM MUSIC" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/dhoom-music-bangla-logo-300x300.jpg" group-title="KOLKATA BANGLA",DHOOM MUSIC
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/13421.ts
-#EXTINF:-1 tvg-id="enterr10.in" tvg-name="ENTER 10 BANGLA" tvg-logo="https://user-images.githubusercontent.com/78508217/109848143-209dd100-7c7a-11eb-84fa-13681fbc625f.png" group-title="KOLKATA BANGLA",ENTER 10 BANGLA
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1355.ts
-#EXTINF:-1 tvg-id="aakashaath.in" tvg-name="AAKASH-BANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Aakash_Aath_4.png" group-title="KOLKATA BANGLA",AAKASH-BANGLA
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2352.ts
-#EXTINF:-1 tvg-id="rupashibangla.in" tvg-name="RUPOSHI BANGLA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSYPe3DFx0i0iLIvd0YQS8lsFHIhMY93mlHSnXRYA=s900-c-k-c0x00ffffff-no-rj" group-title="KOLKATA BANGLA",RUPOSHI BANGLA
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2730.ts
-#EXTINF:-1 tvg-id="khushboobangla.in" tvg-name="KHUSHBOO-BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/c/c1/%E0%A6%96%E0%A7%81%E0%A6%B6%E0%A6%AC%E0%A7%81_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="KOLKATA BANGLA",KHUSHBOO-BANGLA
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1788.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMAR BANGLA" tvg-logo="https://raw.githubusercontent.com/project-a-app/lg.collect/main/amrbng.png" group-title="KOLKATA BANGLA",AMAR BANGLA
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3182.ts
-#EXTINF:-1 tvg-id="" tvg-name="JHANKAR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxtEa_NwbXBXywMHhvw6ZGc8qvwjpMRGlmw&usqp=CAU" group-title="KOLKATA BANGLA",JHANKAR TV
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4621.ts
-#EXTINF:-1 tvg-id="abpananda.in" tvg-name="ABP ANANDA" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2020/06/30/abp.jpg?itok=2vZ7NOqV" group-title="KOLKATA BANGLA",ABP ANANDA
+
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1357.ts
 #EXTINF:-1 tvg-id="mtvbeatshd.in" tvg-name="MTV BEATS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOP6QS31KOVvx39JeLbxB7s2K6sdtk-f97A&usqp=CAU" group-title="HINDI MUSIC ",MTV BEATS HD
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4663.ts
