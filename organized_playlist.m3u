@@ -55,8 +55,7 @@ http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1318.ts
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1323.ts
 #EXTINF:-1 tvg-id="" tvg-name="ANANDA TV" tvg-logo="http://tv.mototvlive.net:8880/images/5668dd25ec46b8e09918b690100f0da7.jpg" group-title="BANGLADESHI",ANANDA TV
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1312.ts
-#EXTINF:-1 tvg-id="" tvg-name="DURONTO TV" tvg-logo="https://duronto.tv/global/admin/images/setting/logo2.png" group-title="BANGLADESHI KIDS",DURONTO TV
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1778.ts
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="EKHON TV" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3ffb1ec8-6553-4130-b63f-aac838c014a4/51e0aaee-7f68-4f9b-b404-5a40e51e9596.png?width=300" group-title="BANGLADESHI",EKHON TV
@@ -114,72 +113,12 @@ http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1357.ts
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4663.ts
 #EXTINF:-1 tvg-id="mtv.in" tvg-name="MTV PLUS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/MTV_India_HD_2022.svg/revision/latest/scale-to-width-down/250?cb=20220404071019" group-title="HINDI MUSIC ",MTV PLUS HD
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2309.ts
-#EXTINF:-1 tvg-id="starplus.in" tvg-name="STAR PLUS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/StarPlus_logo_%282018%29.png/revision/latest?cb=20201128160713" group-title="HINDI ENTERTAINMENT",STAR PLUS HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2354.ts
-#EXTINF:-1 tvg-id="starplushd.in" tvg-name="STAR PLUS FHD" tvg-logo="https://www.seekpng.com/png/full/177-1778176_star-plus-hd-logo.png" group-title="HINDI ENTERTAINMENT",STAR PLUS FHD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1485.ts
-#EXTINF:-1 tvg-id="starutsav.in" tvg-name="STAR UTSAV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Star_Utsav_UK.png/revision/latest?cb=20190712150244" group-title="HINDI ENTERTAINMENT",STAR UTSAV
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4894.ts
-#EXTINF:-1 tvg-id="starutsav.in" tvg-name="UTSAV BHARAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Utsav_Plus_HD_logo.svg/revision/latest/scale-to-width-down/250?cb=20210126010802" group-title="HINDI ENTERTAINMENT",UTSAV BHARAT
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4126.ts
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="STAR BHARAT HD" tvg-logo="https://i.ibb.co/jzHSYCP/Star-Bharat-HD.png" group-title="HINDI ENTERTAINMENT",STAR BHARAT HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4568.ts
-#EXTINF:-1 tvg-id="starbharat.in" tvg-name="STAR BHARAT FHD" tvg-logo="https://i.ibb.co/jzHSYCP/Star-Bharat-HD.png" group-title="HINDI ENTERTAINMENT",STAR BHARAT FHD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1566.ts
-#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="STAR GOLD HD" tvg-logo="https://thelivenagpur.com/wp-content/uploads/2020/03/SG-Black-Text-SD-Logo-1.png" group-title="HINDI  MOVIES",STAR GOLD HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4567.ts
-#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="STAR GOLD FHD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848904-fbf62900-7c7a-11eb-94a8-8e1a14227533.png" group-title="HINDI  MOVIES",STAR GOLD FHD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1556.ts
-#EXTINF:-1 tvg-id="stargoldhd2.in" tvg-name="STAR GOLD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="HINDI  MOVIES",STAR GOLD 2
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4491.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD TRILLS " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnwwA_0Y6k4XGOFlBD3rghCn-ow0wN0TlpLg&usqp=CAU" group-title="HINDI  MOVIES",STAR GOLD TRILLS
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/13323.ts
-#EXTINF:-1 tvg-id="utvmovies.in" tvg-name="STAR GOLD ROMANCE " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPUB7C5BXx1YS_aOFv1nYSWEaCXc4bt9vqMQ&usqp=CAU" group-title="HINDI  MOVIES",STAR GOLD ROMANCE
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3436.ts
-#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="STAR GOLD SELECT HD" tvg-logo="https://user-images.githubusercontent.com/78508217/109848917-fef11980-7c7a-11eb-8b98-fbed0f04024e.png" group-title="HINDI  MOVIES",STAR GOLD SELECT HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2532.ts
-#EXTINF:-1 tvg-id="starutsavmovies.in" tvg-name="STAR UTSAV MOVIES " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg/revision/latest?cb=20170820185540" group-title="HINDI  MOVIES",STAR UTSAV MOVIES
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4907.ts
-#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="HINDI  MOVIES",MBC BOLLYWOOD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4823.ts
-#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNCTQsP2bEz_pJM1kvM_Sp77QyHr0MUAz9PQ&usqp=CAU" group-title="HINDI  MOVIES",BOLLYWOOD HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4884.ts
-#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD CLASSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy8YyyyaAE1NWlFtP6IhSpEkrUqoUN_hBCgg&usqp=CAU" group-title="HINDI  MOVIES",BOLLYWOOD CLASSIC
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4883.ts
-#EXTINF:-1 tvg-id="" tvg-name="DHINCHAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg/revision/latest?cb=20200719093053" group-title="HINDI  MOVIES",DHINCHAK
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/13697.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/youtube/images/4/42/GoldminesTelefilms.jpg/revision/latest?cb=20220330115417" group-title="HINDI  MOVIES",GOLDMINES
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4731.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES MOVIES " tvg-logo="https://static.wikia.nocookie.net/youtube/images/4/42/GoldminesTelefilms.jpg/revision/latest?cb=20220330115417" group-title="HINDI  MOVIES",GOLDMINES MOVIES
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/13291.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIszPGAoopfU9eluCFX0flpKpJBQdcJzf8OQ&usqp=CAU" group-title="HINDI  MOVIES",GOLDMINES BOLLYWOOD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4718.ts
-#EXTINF:-1 tvg-id="sonypal.in" tvg-name="SONY PAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/SONY_PAL_LOGO.png/revision/latest?cb=20221023220705" group-title="HINDI ENTERTAINMENT",SONY PAL
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4248.ts
-#EXTINF:-1 tvg-id="sonysab.in" tvg-name="SONY SAB" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/SONY_SAB_SD.png/revision/latest?cb=20221023220045" group-title="HINDI ENTERTAINMENT",SONY SAB
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4154.ts
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/SONY_SAB_SD.png/revision/latest?cb=20221023220045" group-title="HINDI ENTERTAINMENT",SONY SAB HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1385.ts
-#EXTINF:-1 tvg-id="sony.in" tvg-name="SONY ENT." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/SET_LOGO.png/revision/latest?cb=20221023220621" group-title="HINDI ENTERTAINMENT",SONY ENT.
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2311.ts
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="SONY ENT. HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/SET_LOGO.png/revision/latest?cb=20221023220621" group-title="HINDI ENTERTAINMENT",SONY ENT. HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1391.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY KAL" tvg-logo="https://i.ibb.co/YXzhcnR/sonykal.png" group-title="HINDI ENTERTAINMENT",SONY KAL
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4709.ts
+
+
 #EXTINF:-1 tvg-id="sonymax.in" tvg-name="SONY MAX " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Sony_MAX_SD.png/revision/latest?cb=20221023220126" group-title="HINDI  MOVIES",SONY MAX
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1794.ts
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="SONY MAX HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Sony_MAX_SD.png/revision/latest?cb=20221023220126" group-title="HINDI  MOVIES",SONY MAX HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2313.ts
-#EXTINF:-1 tvg-id="sonywah.in" tvg-name="SONY WAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_WAH.png/revision/latest?cb=20221023220645" group-title="HINDI  MOVIES",SONY WAH
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4244.ts
-#EXTINF:-1 tvg-id="sonymax.in" tvg-name="SONY MAX 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png/revision/latest?cb=20221026151354" group-title="HINDI  MOVIES",SONY MAX 2
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3186.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBO HD" tvg-logo="http://tv.mototvlive.net:8880/images/a6b01fdb6566be44f5d7087e70ee730c.jpg" group-title="HINDI  MOVIES",BBO HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4810.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBO CLASSIC " tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/512X512.png" group-title="HINDI  MOVIES",BBO CLASSIC
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/13289.ts
-#EXTINF:-1 tvg-id="" tvg-name="MINIPLEX HD" tvg-logo="https://www.pngfind.com/pngs/m/664-6648659_plex-logo-png-png-download-miniplex-channel-transparent.png" group-title="HINDI  MOVIES",MINIPLEX HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4555.ts
+
+
 #EXTINF:-1 tvg-id="colors.in" tvg-name="COLORS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" group-title="HINDI ENTERTAINMENT",COLORS
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2768.ts
 #EXTINF:-1 tvg-id="colorshd.in" tvg-name="COLORS HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-colors-tv-hd-logo-300x300.jpg" group-title="HINDI ENTERTAINMENT",COLORS HD
@@ -218,8 +157,7 @@ http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3110.ts
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2729.ts
 #EXTINF:-1 tvg-id="andtvhd.in" tvg-name="&TV HD" tvg-logo="https://www.passionateinmarketing.com/wp-content/uploads/2021/12/1170x658withlogo_378606665.jpg" group-title="HINDI ENTERTAINMENT",&TV HD
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2236.ts
-#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="&PICTURES HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-picture-logo-300x300.jpg" group-title="HINDI  MOVIES",&PICTURES HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1388.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="&XPLORER HD" tvg-logo="https://www.exchange4media.com/news-photo/98204-xplore.jpg" group-title="HINDI  MOVIES",&XPLORER HD
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2769.ts
 #EXTINF:-1 tvg-id="b4umovies.in" tvg-name="B4U MOVIES" tvg-logo="https://thelogofinder.com/wp-content/uploads/edd/2021/11/B4U-Movies.png" group-title="HINDI  MOVIES",B4U MOVIES
@@ -290,8 +228,7 @@ http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4661.ts
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1387.ts
 #EXTINF:-1 tvg-id="" tvg-name="T SPORTS " tvg-logo="https://user-images.githubusercontent.com/80354303/110754685-475b9900-8272-11eb-88e1-6c7b6a03169e.png" group-title="SPORTS CRICKET",T SPORTS
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1404.ts
-#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD " tvg-logo="http://tv.mototvlive.net:8880/images/dafb09be1946e6ee3d0b49655b9fd2d3.png" group-title="SPORTS CRICKET",T SPORTS HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2317.ts
+
 #EXTINF:-1 tvg-id="tencricket.in" tvg-name="TEN CRICKET" tvg-logo="https://i.ibb.co/8PR0S9t/tencricket.png" group-title="SPORTS CRICKET",TEN CRICKET
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4619.ts
 #EXTINF:-1 tvg-id="tencricket.in" tvg-name="TEN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="SPORTS CRICKET",TEN SPORTS HD
@@ -312,16 +249,7 @@ http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1549.ts
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/13367.ts
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="SONY SPORTS 5 HD " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest?cb=20221025091902" group-title="SPORTS CRICKET",SONY SPORTS 5 HD
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1529.ts
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-hd-1-logo.jpg" group-title="SPORTS CRICKET",STAR SPORTS 1 HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1551.ts
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-hd-2-logo.jpg" group-title="SPORTS CRICKET",STAR SPORTS 2 HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1552.ts
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="STAR SPORTS 1 HD HINDI" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="SPORTS CRICKET",STAR SPORTS 1 HD HINDI
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4527.ts
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="SPORTS CRICKET",STAR SPORTS SELECT 1 HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1526.ts
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7437/567437-h" group-title="SPORTS CRICKET",STAR SPORTS SELECT 2 HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1550.ts
+
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="SPORTS18 1 HD" tvg-logo="https://i.ibb.co/TK5nGsn/Sports18-1-HD.png" group-title="SPORTS CRICKET",SPORTS18 1 HD
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1572.ts
 #EXTINF:-1 tvg-id="" tvg-name="A SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbbu7yV5ne43oeQ-jvL0pUQAgDVkfHpCeYA&usqp=CAU" group-title="SPORTS CRICKET",A SPORTS HD
@@ -408,84 +336,8 @@ http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2764.ts
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2342.ts
 #EXTINF:-1 tvg-id="" tvg-name="AD SPORTS 2 HD" tvg-logo="http://tv.bdtype.com/uploads/tv_image/ad-sports-2.png" group-title="SPORTS FOOTBALL",AD SPORTS 2 HD
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2746.ts
-#EXTINF:-1 tvg-id="nick.in" tvg-name="NICK (BENGALI)" tvg-logo="https://banner2.cleanpng.com/20180920/tfe/kisspng-nickelodeon-logo-nick-jr-nick-play-nick-com-5ba431b2ca6e71.6685734415374872828292.jpg" group-title="KIDS",NICK (BENGALI)
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4752.ts
-#EXTINF:-1 tvg-id="sonicnickelodeon.in" tvg-name="NICK SONIC" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/22165721/sonic.png" group-title="KIDS",NICK SONIC
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4530.ts
-#EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="NICK HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/2560px-Nick_HD_Logo.svg.png" group-title="KIDS",NICK HD+
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4778.ts
-#EXTINF:-1 tvg-id="nickjrin.in" tvg-name="NICK Jr." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUUAM7IzW6FbqPT1sGfcXZ2E77FxIUB9sZajYtfou7lrbTcyynsQKp1GiZaqKkDc_ztv4&usqp=CAU" group-title="KIDS",NICK Jr.
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3432.ts
-#EXTINF:-1 tvg-id="sonyyay.in" tvg-name="SONY YAY!" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d20356ee-1ca5-4792-94ec-bb900504437b/bf8b3f46-c810-420f-a90d-9f6834c36b3c.png?width=300" group-title="KIDS",SONY YAY!
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3357.ts
-#EXTINF:-1 tvg-id="hungama.in" tvg-name="HUNGAMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="KIDS",HUNGAMA TV
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4240.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.in" tvg-name="CN INDIA" tvg-logo="https://pm1.narvii.com/6603/09671decbc3f7de471032605f1578e9ceaa0d67b_hq.jpg" group-title="KIDS",CN INDIA
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1534.ts
-#EXTINF:-1 tvg-id="pogo.in" tvg-name="POGO KIDS" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054" group-title="KIDS",POGO KIDS
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3355.ts
-#EXTINF:-1 tvg-id="discoverykids.in" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="KIDS",DISCOVERY KIDS
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1826.ts
-#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="DISNEY HINDI" tvg-logo="http://tv.mototvlive.net:8880/images/b8e579d0a9963afff2dd1f77539e48f1.png" group-title="KIDS",DISNEY HINDI
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3360.ts
-#EXTINF:-1 tvg-id="" tvg-name="SHAARA HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Ishara_tv.png/revision/latest/scale-to-width-down/340?cb=20210406175023" group-title="HINDI ENTERTAINMENT",SHAARA HINDI
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4714.ts
-#EXTINF:-1 tvg-id="" tvg-name="GUBBARE KIDS HINDI" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/11/gubbare.jpg" group-title="KIDS",GUBBARE KIDS HINDI
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2750.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMoo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png/revision/latest?cb=20220221213805" group-title="KIDS",ZOOMoo
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4425.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Animax_old_logo.png?20140713153458" group-title="KIDS",ANIMAX
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1768.ts
-#EXTINF:-1 tvg-id="" tvg-name="MINIMAX KIDS" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/5/52/The_Minimax_Logo.png/revision/latest?cb=20191014215640" group-title="KIDS",MINIMAX KIDS
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4717.ts
-#EXTINF:-1 tvg-id="" tvg-name="KIDS ZONE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Kids_Zone_logo.png" group-title="KIDS",KIDS ZONE HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2751.ts
-#EXTINF:-1 tvg-id="" tvg-name="POP KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/440px-Pop_UK_TV_Logo_%282015%29.svg.png" group-title="KIDS",POP KIDS HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2752.ts
-#EXTINF:-1 tvg-id="" tvg-name="BABY-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/BabyTV.png/250px-BabyTV.png" group-title="KIDS",BABY-TV
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4701.ts
-#EXTINF:-1 tvg-id="" tvg-name="PBS KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/PBS_Kids_Dash_%281999%29.svg/revision/latest/scale-to-width-down/250?cb=20170814134849" group-title="KIDS",PBS KIDS
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1417.ts
-#EXTINF:-1 tvg-id="" tvg-name="EBS KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-FtEOMf1JEaD8oWXFBKs5GZfMhkAK4YfT3DMzt2Da5AUvmhTiA9dgUq56kBIT2Z-OP8&usqp=CAU" group-title="KIDS",EBS KIDS
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2726.ts
-#EXTINF:-1 tvg-id="" tvg-name="RONGEEN TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT8aW9z_3-Q-vgskmW4bfxgql8_g3lk0ntS3anR=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESHI KIDS",RONGEEN TV
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3439.ts
-#EXTINF:-1 tvg-id="disneyjunior.in" tvg-name="3ABN KIDS" tvg-logo="https://www.adventisttv.org/assets/img/main/3ABN_Kids.png" group-title="KIDS",3ABN KIDS
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1419.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://www.paho.org/sites/default/files/styles/max_650x650/public/2020-09/cartoon-network-1500-2_0_0.jpg?itok=Tci6lftu" group-title="KIDS",CARTOON NETWORK
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1418.ts
-#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS",DISNEY CHANNEL
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1774.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON " tvg-logo="https://i.pinimg.com/originals/f5/b9/2d/f5b92dfed68fcef53bb9e16ad433846a.jpg" group-title="KIDS",NICKELODEON
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1420.ts
-#EXTINF:-1 tvg-id="" tvg-name="KARTOON CIRCUS" tvg-logo="https://storage.googleapis.com/accesswire/logos/subaccounts/12197.jpg" group-title="KIDS",KARTOON CIRCUS
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1421.ts
-#EXTINF:-1 tvg-id="natgeowild.in" tvg-name="NAT GEO HD" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Channel-Logo-2005-2016.png" group-title="INFOTAINMENTS",NAT GEO HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1512.ts
-#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="NAT GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INFOTAINMENTS",NAT GEO WILD HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2983.ts
-#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="DISCOVERY BENGALI" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/discovery_channel-new-logo-1-2.jpg" group-title="INFOTAINMENTS",DISCOVERY BENGALI
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3343.ts
-#EXTINF:-1 tvg-id="discovery.in" tvg-name="DISCOVERY HD IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="INFOTAINMENTS",DISCOVERY HD IN
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2299.ts
-#EXTINF:-1 tvg-id="discoveryscience.in" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://p.kindpng.com/picc/s/755-7557809_discovery-science-2nd-variant-logo-discovery-science-hd.png" group-title="INFOTAINMENTS",DISCOVERY SCIENCE
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1776.ts
-#EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name=" DISCOVERY TURBO" tvg-logo="https://w7.pngwing.com/pngs/19/158/png-transparent-discovery-turbo-television-channel-discovery-channel-logo-rua-gabriel-oeschler.png" group-title="INFOTAINMENTS", DISCOVERY TURBO
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4805.ts
-#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="ANIMAL PLANET HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/1280px-2018_animal_planet_logo.svg_.png?r0EbXBEWkDBy904iN3h1Dff35te8jZRk&itok=3yKMpvZX" group-title="INFOTAINMENTS",ANIMAL PLANET HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1425.ts
-#EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="INFOTAINMENTS",FOX LIFE HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2957.ts
-#EXTINF:-1 tvg-id="mtv.in" tvg-name="SONY BBC EARTH HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/74b375fd-7d75-44cc-8f52-4f230bf4f8e8/dedcdbh-7ee5e0cb-c3ad-48ab-a34b-c63cf9224539.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc0YjM3NWZkLTdkNzUtNDRjYy04ZjUyLTRmMjMwYmY0ZjhlOFwvZGVkY2RiaC03ZWU1ZTBjYi1jM2FkLTQ4YWItYTM0Yi1jNjNjZjkyMjQ1MzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NPw1Li09PTgDfQoKbZNH6-JpX39VD5xg93_AQdDNxRM" group-title="INFOTAINMENTS",SONY BBC EARTH HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2307.ts
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="NAT GEO ABU DHABI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="INFOTAINMENTS",NAT GEO ABU DHABI
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1428.ts
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="HISTORY TV18 HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQYoaN0Z5HNzkzW9QPmuCCzkJLddGA49zcf-zN4Wn4=s900-c-k-c0x00ffffff-no-rj" group-title="INFOTAINMENTS",HISTORY TV18 HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4241.ts
-#EXTINF:-1 tvg-id="travelxp.in" tvg-name="TRAVEL XP (UK)" tvg-logo="https://media.glassdoor.com/sqll/1782459/travelxp-squarelogo-1629962343074.png" group-title="INFOTAINMENTS",TRAVEL XP (UK)
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3112.ts
-#EXTINF:-1 tvg-id="travelxphd.in" tvg-name="TRAVEL XP (INDIA)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Travel_xp_hd.png/revision/latest?cb=20111017105347" group-title="INFOTAINMENTS",TRAVEL XP (INDIA)
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4712.ts
+
+
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="STAR MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/Star_Movies_logo_2009.png/revision/latest?cb=20220126012723&path-prefix=vi" group-title="HOLLYWOOD MOVIES",STAR MOVIES HD
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1673.ts
 #EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="STAR MOVIES SELECT HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Star_Movies_Select_HD.jpg/revision/latest?cb=20190102105022" group-title="HOLLYWOOD MOVIES",STAR MOVIES SELECT HD
