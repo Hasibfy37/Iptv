@@ -5,14 +5,9 @@
 
 
 
-#EXTINF:-1,কুমিল্লা-টিভি
-http://103.149.142.133/0.m3u8
-#EXTINF:-1,পেন ভিশন-টিভি
-https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/playlist.m3u8
-#EXTINF:-1,AsiaPacificTV
-https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-#EXTINF:-1,Qatar TV 2 (720p)
-https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+
+
+
 
 
 
@@ -38,19 +33,7 @@ http://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
 
 
-#EXTINF:-1,Ad Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1,MUTV (Manchester United TV)
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
-#EXTINF:0, Art Sports
-https://hls.rtasport.live/hls/stream.m3u8
 
-#EXTINF:-1, VIVAPLAY
-https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
-#EXTINF:-1, Edge SPORTS
-https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1, Red Bull Tv
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
@@ -62,8 +45,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
-#EXTINF:-1,Nour TV
-https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+
 
 
 
@@ -77,23 +59,6 @@ https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 
 
 
-#EXTINF:-1,Zee Bangla
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155774&extension=ts&play_token=otM0DQF4Ff
-
-
-
-#EXTINF:-1,STAR PLUS HD
-http://144.217.70.181:9587/hin2/STARPLUSUK/index.m3u8?token=test&v=697229347
-#EXTINF:-1, STAR PLUS HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2354.ts
-#EXTINF:-1,Bflix MoviesStar Bharat HD
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
-#EXTINF:-1,UTV Action
-http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,Star Gold HD
-http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,Zee TV
-http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8?token=test
 
 
 
