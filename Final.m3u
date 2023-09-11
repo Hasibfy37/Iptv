@@ -28,6 +28,10 @@ http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3113.ts
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1,Deepto TV(2)
 https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="ASIAN TV" group-title="Asian TV", ASIAN TV
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2727.ts
+#EXTINF:-1 tvg-name="EKHON TV" group-title="Asian TV", EKHON TV
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/13363.ts
 #EXTINF:-1,Maasranga
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Banglavision
@@ -302,7 +306,10 @@ http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1526.ts
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1550.ts
 #EXTINF:-1, Ten Sports
 http://livespecial.multistreamz.com:8081/minerva/tensports/playlist.m3u8
-
+#EXTINF:-1 tvg-name="SONY SPORTS 2 HD" group-title="Sports", SONY SPORTS 2 HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1548.ts
+#EXTINF:-1 tvg-name="FOX CRICKET HD (501)" group-title="Sports", FOX CRICKET HD (501)
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4164.ts
                     
 
 
@@ -338,8 +345,44 @@ http://210.210.155.37/session/0eb57594-a570-11ed-bd42-b0d997ea6397/dr9445/h/h38/
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4555.ts
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="&PICTURES HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-picture-logo-300x300.jpg"  ,&PICTURES HD
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1388.ts
-                    
-
+#EXTINF:-1 tvg-name="SONY MAX" group-title="Movies", SONY MAX
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1794.ts
+#EXTINF:-1 tvg-name="COLORS RISHTEY" group-title="Movies", COLORS RISHTEY
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4814.ts
+#EXTINF:-1 tvg-name="CINEPLEX SUPERHITS" group-title="Movies", CINEPLEX SUPERHITS
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4239.ts
+#EXTINF:-1 tvg-name="CINEPLEX BOLLYWOOD" group-title="Movies", CINEPLEX BOLLYWOOD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4694.ts
+#EXTINF:-1 tvg-name="COLORS CINEPLEX" group-title="Movies", COLORS CINEPLEX
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4834.ts                
+#EXTINF:-1 tvg-name="STAR MOVIES HD" group-title="Movies", STAR MOVIES HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1673.ts
+#EXTINF:-1 tvg-name="STAR MOVIES SELECT HD" group-title="Movies", STAR MOVIES SELECT HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4238.ts
+#EXTINF:-1 tvg-name="MOVIES NOW HD" group-title="Movies", MOVIES NOW HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3356.ts
+#EXTINF:-1 tvg-name="HBO HD" group-title="Movies", HBO HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4707.ts
+#EXTINF:-1 tvg-name="HBO FAMILY" group-title="Movies", HBO FAMILY
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4695.ts
+#EXTINF:-1 tvg-name="AXN HD" group-title="Movies", AXN HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4879.ts
+#EXTINF:-1 tvg-name="&FLIX HD" group-title="Movies", &FLIX HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1433.ts
+#EXTINF:-1 tvg-name="&PRIVE HD" group-title="Movies", &PRIVE HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1431.ts
+#EXTINF:-1 tvg-name="ZEE CAFE HD" group-title="Entertainment", ZEE CAFE HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4517.ts
+#EXTINF:-1 tvg-name="SONY PIX HD" group-title="Movies", SONY PIX HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1450.ts
+#EXTINF:-1 tvg-name="MN+HD" group-title="Movies", MN+HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4649.ts
+#EXTINF:-1 tvg-name="MNX HD" group-title="Movies", MNX HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4605.ts
+#EXTINF:-1 tvg-name="COLORS INFINITY HD" group-title="Entertainment", COLORS INFINITY HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3176.ts
+#EXTINF:-1 tvg-name="SYFY HD" group-title="Entertainment", SYFY HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1806.ts
 
 
 
@@ -419,7 +462,12 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1,Xlpore English(BD)
 http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
-
+#EXTINF:-1 tvg-name="TLC HD" group-title="Entertainment", TLC HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1775.ts
+#EXTINF:-1 tvg-name="DISCOVER PAKISTAN" group-title="Entertainment", DISCOVER PAKISTAN
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/4700.ts
+#EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="Documentary", ANIMAL PLANET
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/13914.ts
 
 
 
@@ -442,7 +490,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:-1 tvg-id="mtv.in" tvg-name="MTV PLUS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/MTV_India_HD_2022.svg/revision/latest/scale-to-width-down/250?cb=20220404071019"  ,MTV PLUS HD
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2309.ts
-
+#EXTINF:-1 tvg-name="HINDI-HITS HD" group-title="Movies", HINDI-HITS HD
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/13318.ts
+#EXTINF:-1 tvg-name="MASTIII MUSIC" group-title="Music", MASTIII MUSIC
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1594.ts
 
 
 
