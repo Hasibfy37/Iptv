@@ -140,7 +140,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8
 http://103.149.142.133/0.m3u8
 #EXTINF:-1,পেন ভিশন-টিভি
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/playlist.m3u8
-                  
+#EXTINF:-1,ফাল্গুনী টিভি 
+http://khan.qcast.live:1009/falgunitv/livestream/playlist.m3u8                 
 
 
 
@@ -172,7 +173,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,AsiaPacificTV
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-                    
+#EXTINF:-1,High News
+http://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8                    
 
 
 #--------------------------------------------------------------ISLAMIC--------------------------------------------------------------------------------
@@ -282,7 +284,44 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://210.210.155.37/session/26dad2fe-a570-11ed-9356-bc88983ac668/dr9445/h/h15/01.m3u8
 #EXTINF-1: Hits Movie
 http://210.210.155.37/session/0eb57594-a570-11ed-bd42-b0d997ea6397/dr9445/h/h38/01.m3u8
-
+#EXTINF:-1,SONY MAX SD
+http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,SONY MAX-2
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1,CinemaxSTAR WORLD HD (IN)MN+MNX-HDMovies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1,C MOVOIES
+http://208.86.19.13:81/22.stream/index.m3u8
+#EXTINF:-1,Movie Sphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,B4U Movies
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,Hollywood HD
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+#EXTINF:-1,SONY.MAX 2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1,SONY MAX HD
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:-1,এফবি-টিভি
+http://162.244.81.200:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,রূপসী বাংলা
+http://5fe9adb07250c.streamlock.net:1935/live/rup/playlist.m3u8
+#EXTINF:-1,Mbc Bollywood
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1,Bplex Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF-1: Joj Cinema
+https://st01-1.iptv.joj.sk/105-tv-pc.m3u8
+#EXTINF-1: Rock
+http://210.210.155.35/dr9445/h/h16/index.m3u8
+#EXTINF-1: Hits
+http://210.210.155.37/session/5951646e-a570-11ed-bd9b-a56f9bd43ce6/dr9445/h/h37/01.m3u8
+#EXTINF-1: MovieBox
+https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+#EXTINF-1: Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 
 #--------------------------------------------------------------------KIDS-----------------------------------------------------------------------------
@@ -290,7 +329,42 @@ http://210.210.155.37/session/0eb57594-a570-11ed-bd42-b0d997ea6397/dr9445/h/h38/
 
 #EXTINF:-1,Nick Jr.
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93064.ts
-
+#EXTINF:-1,Nandan TV
+http://nandansyst.com/hls/nandan.m3u8?token=soheliptv01826655778
+#EXTINF:-1,CARTOON NETWORK ABU DHABI
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+#EXTINF:-1,Rongeen tv
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
+#EXTINF:-1,Hungama Kids
+http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,HappyKidsJunior
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,HappyKids
+https://happykids-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1,Toon GoGGlesNick Toons
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93065.ts
+#EXTINF:-1,nick Indo HD
+http://202.150.161.254:4000/play/a00a/index.m3u8
+#EXTINF:-1,Khushboo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+#EXTINF:-1,Duck TV (720p)
+https://tvup-fast-ottera-mmm-ducktv.secure2.footprint.net/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/DuckTVHDSAMS/DuckTVHDSAMS_720p_AAC.stream/playlist.m3u8
+#EXTINF:-1,Baby Shark TV (1080p)
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+#EXTINF:-1,Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1,DiscoverFilmUk
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,ZooMoo Kids
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1,Nick
+http://103.141.2.37:25461/web/web/615
+#EXTINF:-1,Disney Channel
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93031.ts
+#EXTINF:-1,Sonic
+https://mhdtv.co.in/jio/app/live/1345/Sonic_Bangla/index.m3u8
 
 
 
@@ -313,7 +387,16 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1,Xlpore English(BD)
 http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
-
+#EXTINF:-1,Discovery Channel
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93027.ts
+#EXTINF:-1 ,Discovery Bangla HD
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+#EXTINF:-1,Discovery Science(2)
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93030.ts
+#EXTINF:-1, Wired 2-Fish
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+#EXTINF:-1, Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 
 
@@ -332,6 +415,8 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1, SHOW Box MUSIC
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
+#EXTINF:-1,Bindass
+https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 
 
 
@@ -340,9 +425,9 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
 
 
-#-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
+#-------------------------------------------------------------OTHERS------------------------------------------------------------------------------------------
+#EXTINF:-1,Brat TV (1080p)
+https://brat-rakuten.amagi.tv/playlist.m3u8
 
 
 
