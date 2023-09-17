@@ -426,6 +426,10 @@ https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 
 
 #-------------------------------------------------------------OTHERS------------------------------------------------------------------------------------------
+
+
+
+
 #EXTINF:-1,Brat TV (1080p)
 https://brat-rakuten.amagi.tv/playlist.m3u8
 
@@ -435,8 +439,35 @@ https://brat-rakuten.amagi.tv/playlist.m3u8
 
 
 
-#------------------------------------------------------------------------------------------------------------------------------------------------------------
+#--------------------------------------------------------RADIOOO--------------------------------------------------------------------------------------
 
+
+
+
+#EXTINF:-1,Radio Foorti
+https://node-11.zeno.fm/f0bfdk2w34zuv
+#EXTINF:-1,Radio Today (89.6)
+http://node-24.zeno.fm/0zha3rfq02quv
+#EXTINF:-1,Radio Mirchi (98.3)
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1,Radio Wow
+https://stream-41.zeno.fm/d22wrdbst5quv
+#EXTINF:-1,ABC Radio (89.2)
+http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
+#EXTINF:-1,Saudi Quran
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1,Radio Today (89.6)
+http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+#EXTINF:-1,Jago FM (94.4)
+http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+#EXTINF:-1,Bangladesh Betar (88.8)
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+#EXTINF:-1,Al Quran Radio
+http://66.45.232.131:9994/;stream.mp3
+#EXTINF:-1,Radio Mirchi (98.3)
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1,Big FM (92.7)
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
 
 
 
