@@ -4,6 +4,8 @@
 
 #EXTINF:-1 ,BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
+#EXTINF:-1 ,BTV
+http://103.230.105.252:1935/live/btv/chunklist_w524649012.m3u8
 #EXTINF:-1,Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,Shomoy TV
@@ -142,7 +144,8 @@ http://103.149.142.133/0.m3u8
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/playlist.m3u8
 #EXTINF:-1,ফাল্গুনী টিভি 
 http://khan.qcast.live:1009/falgunitv/livestream/playlist.m3u8                 
-
+#EXTINF:-1,NRB TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 
 
 
@@ -271,7 +274,8 @@ https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1, Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8                    
-
+#EXTINF:-1, QAZ SPORTS
+https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
 
 
 
@@ -365,7 +369,8 @@ http://103.141.2.37:25461/web/web/615
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93031.ts
 #EXTINF:-1,Sonic
 https://mhdtv.co.in/jio/app/live/1345/Sonic_Bangla/index.m3u8
-
+#EXTINF:-1,CARTOON TV
+https://livecdn-iptv001.rumsport.com/stream/2303/stream/2303_hd/chunks.m3u8
 
 
 
@@ -397,7 +402,8 @@ http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93030.ts
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
 #EXTINF:-1, Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-
+#EXTINF:-1,travel xp UK
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/1200.m3u8
 
 
 
