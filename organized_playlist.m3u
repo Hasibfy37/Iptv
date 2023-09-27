@@ -1,11 +1,61 @@
 #EXTM3U
 
+#EXTINF:-1,T sports
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMwDr04b0BMc4QbtwsxKacAQ/m3u8
 
+#EXTINF:-1,GTV
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM4a9ZIbC6ZQPO9Uw1syBicM/m3u8
 
+#EXTINF:-1,Masranga
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM0EYZFpbYzWflwzOUv40VOY/m3u8
 
+#EXTINF:-1,Global TV HD
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLM3eG9NtWTRBieGqy4aFre8U/m3u8
 
+#EXTINF:-1,Discovery Hindi
+https://serverbackupchannel.xyz/jiotvchannel/app/live/575/Discovery_Channel_Hindi/index.m3u8
 
+#EXTINF:-1,Discovery English
+https://serverbackupchannel.xyz/jiotvchannel/app/live/242/Discovery/index.m3u8
 
+#EXTINF:-1,Discovery Bangla
+https://serverbackupchannel.xyz/jiotvchannel/app/live/573/Discovery_Channel_Bengali/index.m3u8
 
+#EXTINF:-1,Discovery Kids HINDI
+https://serverbackupchannel.xyz/jiotvchannel/app/live/554/Discovery_Kids_2/index.m3u8
 
+#EXTINF:-1,Discovery Science
+https://serverbackupchannel.xyz/jiotvchannel/app/live/568/Discovery_Science/index.m3u8
 
+#EXTINF:-1,CN Hindi
+https://serverbackupchannel.xyz/jiotvchannel/app/live/816/Cartoon_Network_Hindi/index.m3u8
+
+#EXTINF:-1,NICK JR Hindi
+https://serverbackupchannel.xyz/jiotvchannel/app/live/544/Nick_Junior/index.m3u8
+
+#EXTINF:-1,Sony YAY Hindi
+https://serverbackupchannel.xyz/jiotvchannel/app/live/872/Sony_Yay_Hindi/index.m3u8
+
+#EXTINF:-1,NICK Bangla
+https://serverbackupchannel.xyz/jiotvchannel/app/live/1341/Nick_Bangla/index.m3u8
+
+#EXTINF:-1,Sonic Bangla
+https://serverbackupchannel.xyz/jiotvchannel/app/live/1345/Sonic_Bangla/index.m3u8
+
+#EXTINF:-1,POGO Hindi
+https://serverbackupchannel.xyz/jiotvchannel/app/live/559/Pogo_Hindi/index.m3u8
+
+#EXTINF:-1,CN HD PLUS English
+https://serverbackupchannel.xyz/jiotvchannel/app/live/1079/CN_HD_English/index.m3u8
+
+#EXTINF:-1,History Channel
+https://serverbackupchannel.xyz/jiotvchannel/app/live/146/History_HD/index.m3u8
+
+#EXTINF:-1,History Channel Hindi
+https://serverbackupchannel.xyz/jiotvchannel/app/live/578/History_18_Hindi/index.m3u8
+
+#EXTINF:-1,Animal Planet HD English
+https://serverbackupchannel.xyz/jiotvchannel/app/live/286/Animal_Planet_HD/index.m3u8
+
+#EXTINF:-1,Animal Planet HD Hindi
+https://serverbackupchannel.xyz/jiotvchannel/app/live/566/Animal_Planet_Hindi/index.m3u8
