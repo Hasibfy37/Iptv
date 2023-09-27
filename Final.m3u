@@ -1,13 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1, RABBITWOLE SPORT
-https://video-weaver.ams03.hls.live-video.net/v1/playlist/CrgFpO27atXhl8zG-j9nEGUy3hGGZuF5Olz3ylTqdi4bwzLr-T-5O3rRf0JikbQVahmZu5DevxPLRYlRZEWFmTkoYH0VV0lWtrlqX1vr2YSJwCO1N6l6rwzF3lY0URVIZsovasaX9Jk231jjqzW4LNoa9Ekmr8LRLmx_GVonCQ4tc6CQ5bcBDqIMaQ20zv-PVafjMJu5hfIy3K-rR3KfZJQRBCmBnazo0iXAndPnu709k5rjWmyKDZ2sN5JRRXB_jUqzsCxlpm0h-fw5f5hE7jYzHNacyggWyFtbJkb3Q8jXqpA_2OOpZOl2ljUl-yVwqnz2cn5aK8HEokLGcbM641bvbP9RbvuE7NJADy-FbGgR4rreVIt9DZ_xxhF8gulJ-MhlF0yZi9CEfMZBnezwQx7JEjwC_6hMbB3w5EfD61AU0QnWYcAbq6OWVdL_ChHBCbV1XYTEikMmL4tQBjVdGGdLZCOXkU3Jn5fYUC5nSX9I60FUpPUbUC2nv6oul53U_QzFcLNMC3TiOi4dXPBI4ia9ovRfrzIQM4hp5KBfnKrhb_KdPVsl5JfJ_AQvoRnZ5A6bmezpFtKzV-ZYv6Aq8F528AAzJ-gbacmFuXmcqq7Erzr11m-3Z-hGHbFTctfsq0Sx-3ttg_VWQaYd8vFkGymHa3uAMRJpVvtRJ2fQVY1AXBT7-y9Fecq_OauavG3y__xhCxhk782rxqV7pYzVK8l97J_vUDMerFfEqVaghTZk3Jgu9Bbe9A_ql6-ebgHa9TmbhN3cuVjDA4DSnTg9kv76WMh7tAoQPwr5Eqs0sSPsK_-s65rgiUc4sbyL-1iDoxvs1wJKdwKX6c7FXvC8P1xf0FUUlRSuFeW0J9QxNh8T4hF6Lg4O_KhjoRP75cJXHtJbDjycBqSmblnJljNRR5jeCKFwB67NVBwSGgyupvARKSg2rJa6Z1YgASoJdXMtd2VzdC0yMMkH.m3u8
 
 
-
-
-#---------------------------------------------------------------------BANGLADESH--------------------------------------------------------------------------
+#---------------------------------------------------------------------GENERAL--------------------------------------------------------------------------
 
 #EXTINF:-1 ,BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
@@ -226,10 +222,29 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors
 #EXTINF:-1,Sony AATH
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
+#EXTINF:-1,Jalsha Movies HD (2)
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155771&extension=ts&play_token=otM0DQF4Ff
 
+#EXTINF:-1,Star Jalsha HD (4)
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155770&extension=ts&play_token=otM0DQF4Ff
 
-                    
+#EXTINF:-1,ZEE BANGLA
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155774&extension=ts&play_token=otM0DQF4Ff
 
+#EXTINF:-1,STARJALSHA
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155770&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,Colors Bangla SD (1)
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=225740&extension=ts&play_token=Qz4YMDOKd2
+
+#EXTINF:-1,Star Jalsha HD (30min Left)
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+
+#EXTINF:-1,Jalsha Movies HD (2)
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155771&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,Zee Bangla (30min Left)
+https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
 
 
 
@@ -284,12 +299,86 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1, QAZ SPORTS
 https://gameslive.akamaized.net/hls/live-97eee134-2b19-4781-b794-04d3490229e4_720p2800kbs/index.m3u8
 
+#EXTINF:-1,Star Sports Select HD1
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155972&extension=ts&play_token=otM0DQF4Ff
 
+#EXTINF:-1,Star Sports Select HD2
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155973&extension=ts&play_token=otM0DQF4Ff
 
+#EXTINF:-1,Star Sports Tamil
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=155873&extension=m3u8&play_token=ZynsjEu14J
+
+#EXTINF:-1,A Sports HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=1147117&extension=m3u8&play_token=PN3cQTcedf
+
+#EXTINF:-1,Super Sports Cricket
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=1104669&extension=m3u8&play_token=K7PpodVDKI
+
+#EXTINF:-1,Willo Cricket HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=1104677&extension=ts&play_token=9GNgQT81cI
+
+#EXTINF:-1,Eurosport HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=156027&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,Star Sports 1 (3)
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155968&extension=ts&play_token=otM0DQF4Ff
 
 
 #------------------------------------------------------------------ENGLISH MOVIES+HINDI MOVIES------------------------------------------------------------------------------
 
+
+#EXTINF:-1,MN+
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=156025&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,Movies Now
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=156022&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,MNX
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=156021&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,Star Movies
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155727&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,Star Movies Select
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/267542
+
+#EXTINF:-1,& flix
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155990&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,& privé HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155746&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,Comedy Central
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155740&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,VH1
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155739&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,Star Gold Romance
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=156033&extension=m3u8&play_token=CjajAH1JIr
+
+#EXTINF:-1,Star Utsav Movies
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=1112131&extension=m3u8&play_token=19lN2YqIw2
+
+
+#EXTINF:-1,Movies Now HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=156022&extension=ts&play_token=otM0DQF4Ff
+
+
+#EXTINF:-1,&prive HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155746&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,&flix HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155990&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,Star Gold Thrills HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155996&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,©
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155740&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,TATA Play Hits HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155734&extension=ts&play_token=otM0DQF4Ff
 
 #EXTINF-1: Rock Action
 http://210.210.155.37/session/26dad2fe-a570-11ed-9356-bc88983ac668/dr9445/h/h15/01.m3u8
@@ -337,6 +426,30 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #--------------------------------------------------------------------KIDS-----------------------------------------------------------------------------
 
+
+#EXTINF:-1,HUNGAMA HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=1112134&extension=m3u8&play_token=19lN2YqIw2
+
+#EXTINF:-1,Disney Channel
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=156000&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,Hungama TV
+http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:4b:66:ae&stream=1097624&extension=ts&play_token=5gAOp1lK5M
+
+#EXTINF:-1,Discovery Kids
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155752&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,Nick Jr.
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1,Sonic
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/Sonic_Nickelodeon_voot_MOB-audio_98835_hin=98800-video=765200.m3u8
+
+#EXTINF:-1,CN
+http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:4b:66:ae&stream=280748&extension=ts&play_token=3Ubs7hukj3
+
+#EXTINF:-1,Pogo
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=156128&extension=ts&play_token=otM0DQF4Ff
 
 #EXTINF:-1,Nick Jr.
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93064.ts
@@ -411,6 +524,32 @@ https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1,travel xp UK
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/1200.m3u8
+
+
+#EXTINF:-1,BBC Earth
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155737&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,Fox life
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155731&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,Animal Planet HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155736&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,TLC HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155743&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,Foxlife HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155731&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,Food Food
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=156105&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,Zee Cafe HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155730&extension=ts&play_token=otM0DQF4Ff
+
+#EXTINF:-1,travel xp HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155748&extension=ts&play_token=otM0DQF4Ff
+
 
 
 
