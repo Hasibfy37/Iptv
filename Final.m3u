@@ -288,7 +288,7 @@ http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8?token=test)))
 #EXTINF:-1,Star sports 1
 http://10.16.100.215:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1,T sports
-https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMwDr04b0BMc4QbtwsxKacAQ/m3u8
+https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1695891365~exp=1695934565~acl=/*~data=45.61.146.183-WEB~hmac=d750c8a8781908e900a82840e01efd159ef58534d99b194352c1351bfa0d52fc
 #EXTINF:-1, Ten Sports
 http://livespecial.multistreamz.com:8081/minerva/tensports/playlist.m3u8
 #EXTINF:-1,Ad Sports 1
