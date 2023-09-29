@@ -1,150 +1,298 @@
 #EXTM3U
-
-
-#General
-
-
-
-
-
-
-
-
-
-
-
-
-
-#News
-
-
-
-
-
-
-
-
-
-
-
-#sports
-
-
-
-
-
-
-
-
-
-
-
-
-#islamic
-
-
-
-
-
-
-
-
-
-
-
-
-
-#Indian
-
-
-
-
-
-
-
-
-
-
-
-
-#Music
-
-
-
-
-#EXTINF:-1,Music India
-https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_9_0.m3u8
-
-
-
-
-
-
-
-
-#Movies
-
-
-
-#EXTINF:-1, JALSHA MOVIES HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2528.ts
-#EXTINF:-1, COLORS BANGLA CINE
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/13888.ts
-
-
-
-
-
-
-#Informative
-
-
-#EXTINF:-1, DISCOVERY BENGALI
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/3343.ts
-#EXTINF:-1, ANIMAL PLANET HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1425.ts
-#EXTINF:-1, FOX LIFE HD
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2957.ts
-#EXTINF:-1,Animal Planet
-http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92950.ts
-#EXTINF:-1,ANIMAL PLANET Test
-https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-#Kids
-
-
-
-
-
-
-
-
-
-
-#Others
-
-
-
-
-
-
-
-
-
-
-#Radio
-
-
-
+#EXTINF:-1,&flix HD-Rs 19
+  
+http://14.102.123.50:8500/play/a04w
+#EXTINF:-1,&pictures HD -Rs 19
+  
+http://14.102.123.50:8500/play/a05d
+#EXTINF:-1,&prive HD-Rs 6
+  
+http://14.102.123.50:8500/play/a05j
+#EXTINF:-1,&tv HD - Rs 19
+  
+http://14.102.123.50:8500/play/a0k5
+#EXTINF:-1,Animal PlanetHD-Rs5
+  
+http://14.102.123.50:8500/play/a057
+#EXTINF:-1,Asianet Movies HD-Rs19
+  
+http://14.102.123.50:8500/play/a0k8
+#EXTINF:-1,Cartoon NW-Rs4.25
+  
+http://14.102.123.50:8500/play/a05t
+#EXTINF:-1,Colors HD-Rs 19
+  
+http://14.102.123.50:8500/play/a04v
+#EXTINF:-1,Discovery HD-Rs8
+  
+http://14.102.123.50:8500/play/a04f
+#EXTINF:-1,Discovery Kids-Rs3.50
+  
+http://14.102.123.50:8500/play/a064
+#EXTINF:-1,DiscoveryScienc-Rs1
+  
+http://14.102.123.50:8500/play/a095
+#EXTINF:-1,DiscoveryTurbo-Rs1
+  
+http://14.102.123.50:8500/play/a096
+#EXTINF:-1,Disney Jr.-Rs 4
+  
+http://14.102.123.50:8500/play/a05y
+#EXTINF:-1,Disney-Rs 10
+  
+http://14.102.123.50:8500/play/a05v
+#EXTINF:-1,ETV Bal Bharat-Rs4
+  
+http://14.102.123.50:8500/play/a0jc
+#EXTINF:-1,ETV Cinema-Rs 13
+  
+http://14.102.123.50:8500/play/a0kg
+#EXTINF:-1,ETV HD - Rs 19
+  
+http://14.102.123.50:8500/play/a0k3
+#EXTINF:-1,EUROSPORT HD-Rs 5.50
+  
+http://14.102.123.50:8500/play/a04y
+#EXTINF:-1,FOX Life HD-Rs 2
+  
+http://14.102.123.50:8500/play/a05r
+#EXTINF:-1,GEMINI LIFE -Rs 5
+  
+http://14.102.123.50:8500/play/a0kf
+#EXTINF:-1,GEMINI TV HD -Rs19
+  
+http://14.102.123.50:8500/play/a0j9
+#EXTINF:-1,HISTORY TV18 HD-Rs7
+  
+http://14.102.123.50:8500/play/a059
+#EXTINF:-1,Investigation D-Rs1
+  
+http://14.102.123.50:8500/play/a045
+#EXTINF:-1,Jalsha Movies-SD@
+  
+http://14.102.123.50:8500/play/a0hd
+#EXTINF:-1,JalshaMoviesHD-Rs19
+  
+http://14.102.123.50:8500/play/a092
+#EXTINF:-1,KTV HD-Rs 19
+  
+http://14.102.123.50:8500/play/a0j7
+#EXTINF:-1,MN+ HD-Rs 8
+  
+http://14.102.123.50:8500/play/a04b
+#EXTINF:-1,MTV - Rs 3
+  
+http://14.102.123.50:8500/play/a061
+#EXTINF:-1,Nat Geo HD-Rs14
+  
+http://14.102.123.50:8500/play/a04e
+#EXTINF:-1,NatGeo Wild HD-Rs8
+  
+http://14.102.123.50:8500/play/a043
+#EXTINF:-1,Nick Jr.- Rs 1
+  
+http://14.102.123.50:8500/play/a063
+#EXTINF:-1,PTC chakde@
+  
+http://14.102.123.50:8500/play/a0g5
+#EXTINF:-1,Pogo - Rs 4.25
+  
+http://14.102.123.50:8500/play/a060
+#EXTINF:-1,SET HD - Rs 19
+  
+http://14.102.123.50:8500/play/a04x
+#EXTINF:-1,SONIC- Rs 2
+  
+http://14.102.123.50:8500/play/a05z
+#EXTINF:-1,SONY MAX 2 - Rs 1
+  
+http://14.102.123.50:8500/play/a05q
+#EXTINF:-1,SONY MAX HD -Rs 19
+  
+http://14.102.123.50:8500/play/a042
+#EXTINF:-1,SONY PAL - 50p
+  
+http://14.102.123.50:8500/play/a053
+#EXTINF:-1,SONY PIX HD - Rs 19
+  
+http://14.102.123.50:8500/play/a05c
+#EXTINF:-1,SONY SAB HD - Rs 19
+  
+http://14.102.123.50:8500/play/a0k7
+#EXTINF:-1,STAR BHARAT HD-Rs 19
+  
+http://14.102.123.50:8500/play/a056
+#EXTINF:-1,STAR JALSHA HD-Rs19
+  
+http://14.102.123.50:8500/play/a070
+#EXTINF:-1,STAR MOVIES HD-Rs19
+  
+http://14.102.123.50:8500/play/a04c
+#EXTINF:-1,SUN LIFE- Rs 9
+  
+http://14.102.123.50:8500/play/a0ke
+#EXTINF:-1,SUN MUSIC HD-Rs19
+  
+http://14.102.123.50:8500/play/a071
+#EXTINF:-1,SUN TV HD-Rs 19 
+  
+http://14.102.123.50:8500/play/a06z
+#EXTINF:-1,SURYA COMEDY-Rs 4
+  
+http://14.102.123.50:8500/play/a0kd
+#EXTINF:-1,SURYA HD- Rs 19
+  
+http://14.102.123.50:8500/play/a0k6
+#EXTINF:-1,Sony Ten 1 HD-Rs19
+  
+http://14.102.123.50:8500/play/a03p
+#EXTINF:-1,Sony Ten 2 HD-Rs19
+  
+http://14.102.123.50:8500/play/a05g
+#EXTINF:-1,Sony Ten 3 HD-Rs19
+  
+http://14.102.123.50:8500/play/a046
+#EXTINF:-1,Sony Ten 5 HD-Rs19
+  
+http://14.102.123.50:8500/play/a040
+#EXTINF:-1,SonyBBCearthHD-Rs19
+  
+http://14.102.123.50:8500/play/a05b
+#EXTINF:-1,Sports18 1 HD-Rs10
+  
+http://14.102.123.50:8500/play/a048
+#EXTINF:-1,Star GOLD HD -Rs 19
+  
+http://14.102.123.50:8500/play/a058
+#EXTINF:-1,Star Gold 2- Rs 2
+  
+http://14.102.123.50:8500/play/a05o
+#EXTINF:-1,Star Gold Romance- Rs 2
+  
+http://14.102.123.50:8500/play/a05n
+#EXTINF:-1,Star Gold Thrills- Rs 2
+  
+http://14.102.123.50:8500/play/a05m
+#EXTINF:-1,Star Maa HD - Rs 21
+  
+http://14.102.123.50:8500/play/a0k9
+#EXTINF:-1,Star Maa MovHD-Rs 19
+  
+http://14.102.123.50:8500/play/a0k4
+#EXTINF:-1,Star Plus HD -Rs 19
+  
+http://14.102.123.50:8500/play/a04t
+#EXTINF:-1,Star Pravah HD-Rs19
+  
+http://14.102.123.50:8500/play/a074
+#EXTINF:-1,Star Sports 3-SD@
+  
+http://14.102.123.50:8500/play/a0gp
+#EXTINF:-1,Star Utsav-50p
+  
+http://14.102.123.50:8500/play/a051
+#EXTINF:-1,StarGold SelHD-Rs8
+  
+http://14.102.123.50:8500/play/a05a
+#EXTINF:-1,StarMovieSelHD-Rs19
+  
+http://14.102.123.50:8500/play/a04d
+#EXTINF:-1,StarS1 HindiHD-Rs19
+  
+http://14.102.123.50:8500/play/a041
+#EXTINF:-1,StarSportSL1HD-Rs19
+  
+http://14.102.123.50:8500/play/a05e
+#EXTINF:-1,StarSportSL2HD-Rs10
+  
+http://14.102.123.50:8500/play/a05f
+#EXTINF:-1,StarSports1 HD-Rs19
+  
+http://14.102.123.50:8500/play/a0hm
+#EXTINF:-1,StarSports2 HD-Rs19
+  
+http://14.102.123.50:8500/play/a03o
+#EXTINF:-1,StarSuvarnaHD-Rs19
+  
+http://14.102.123.50:8500/play/a0df
+#EXTINF:-1,Super Hungama- Rs 4
+  
+http://14.102.123.50:8500/play/a0jj
+#EXTINF:-1,TLC HD- Rs3
+  
+http://14.102.123.50:8500/play/a049
+#EXTINF:-1,UDAYA HD- Rs 19
+  
+http://14.102.123.50:8500/play/a0ka
+#EXTINF:-1,VIJAY HD- Rs 19
+  
+http://14.102.123.50:8500/play/a06o
+#EXTINF:-1,Vijay Super HD - Rs 19
+  
+http://14.102.123.50:8500/play/a0kc
+#EXTINF:-1,ZEE ANMOL-10p
+  
+http://14.102.123.50:8500/play/a054
+#EXTINF:-1,ZEE BANGLA@
+  
+http://14.102.123.50:8500/play/a0gk
+#EXTINF:-1,ZEE BOLLYWOOD-Rs3
+  
+http://14.102.123.50:8500/play/a05p
+#EXTINF:-1,ZEE CINEMA HD-Rs 19
+  
+http://14.102.123.50:8500/play/a055
+#EXTINF:-1,ZEE Cafe HD - Rs10
+  
+http://14.102.123.50:8500/play/a04a
+#EXTINF:-1,ZEE KERALAM HD@
+  
+http://14.102.123.50:8500/play/a0hk
+#EXTINF:-1,ZEE Kannada HD-Rs19
+  
+http://14.102.123.50:8500/play/a0ja
+#EXTINF:-1,ZEE MARATHI HD-Rs 19
+  
+http://14.102.123.50:8500/play/a06n
+#EXTINF:-1,ZEE TALKIES HD-Rs 19 
+  
+http://14.102.123.50:8500/play/a06l
+#EXTINF:-1,ZEE TV HD-Rs 19
+  
+http://14.102.123.50:8500/play/a04u
+#EXTINF:-1,Zing - 10p
+  
+http://14.102.123.50:8500/play/a0kh
+#EXTINF:-1,Zoom - 50p
+  
+http://14.102.123.50:8500/play/a065
+#EXTINF:-1,bindass - 10p
+  
+http://14.102.123.50:8500/play/a050
+#EXTINF:-1,colorMarathiHD-Rs17
+  
+http://14.102.123.50:8500/play/a0j8
+#EXTINF:-1,colors Bangla-Rs 7
+  
+http://14.102.123.50:8500/play/a0jb
+#EXTINF:-1,colors rishtey-Rs1
+  
+http://14.102.123.50:8500/play/a04z
+#EXTINF:-1,colorsBanglaHD-Rs14
+  
+http://14.102.123.50:8500/play/a072
+#EXTINF:-1,colorsInfintyHD-Rs9
+  
+http://14.102.123.50:8500/play/a05h
+#EXTINF:-1,colorsKannadHD-Rs19
+  
+http://14.102.123.50:8500/play/a0k2
+#EXTINF:-1,hungama tv-Rs 1
+  
+http://14.102.123.50:8500/play/a05u
+#EXTINF:-1,nick - Rs 6
+  
+http://14.102.123.50:8500/play/a05w
+#EXTINF:-1,nick HD+- Rs 10
+  
+http://14.102.123.50:8500/play/a05i
