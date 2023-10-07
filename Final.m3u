@@ -285,8 +285,8 @@ http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8?token=test)))
 
 #----------------------------------------------------------SPORTS-------------------------------------------------------------------------------------------
 
-#EXTINF:-1,Star sports 1
-http://10.16.100.215:8080/hls/StarSports1HD.m3u8
+#EXTINF:-1,Star sports 1 ICC
+http://10.16.100.206:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1,T sports
 https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1695891365~exp=1695934565~acl=/*~data=45.61.146.183-WEB~hmac=d750c8a8781908e900a82840e01efd159ef58534d99b194352c1351bfa0d52fc
 #EXTINF:-1, Ten Sports
