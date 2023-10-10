@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, ICCCC
+#EXTINF:-1 ,ICCCC
 http://10.16.100.212:8080/hls/tsports.m3u8
 
 
