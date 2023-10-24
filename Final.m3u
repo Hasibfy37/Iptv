@@ -285,6 +285,8 @@ http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8?token=test)))
 
 #----------------------------------------------------------SPORTS-------------------------------------------------------------------------------------------
 
+#EXTINF:-1 , PTV Sports
+http://10.16.100.212:8080/hls/PtvSports.m3u8
 #EXTINF:-1 ,ICCCC
 http://10.16.100.212:8080/hls/tsports.m3u8
 #EXTINF:-1,Star sports 1 ICC
